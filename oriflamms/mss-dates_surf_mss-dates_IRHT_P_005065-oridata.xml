@@ -1,0 +1,1166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--oriflamms data file-->
+<OriData>
+    <validation>
+        <v id="w_mss-dates_11427" ok="2" left="0" right="0" imgsig="llll(l"/>
+        <v id="w_mss-dates_11368" ok="2" left="0" right="0" imgsig="l&apos;l&apos;,&apos;,&apos;&apos;)llll&apos;,"/>
+        <v id="w_mss-dates_11398" ok="2" left="0" right="0" imgsig="l),l),&apos;&apos;,&apos;,)llll)"/>
+        <v id="w_mss-dates_11376" ok="2" left="0" right="0" imgsig="lll,ll"/>
+        <v id="w_mss-dates_11426" ok="2" left="0" right="0" imgsig="(&apos;&apos;&apos;&apos;llllllll("/>
+        <v id="w_mss-dates_11369" ok="2" left="0" right="0" imgsig="ll,lllllllll"/>
+        <v id="w_mss-dates_11419" ok="2" left="0" right="0" imgsig="(ll(,)ll"/>
+        <v id="w_mss-dates_11370" ok="2" left="0" right="0" imgsig="l&apos;,ll&apos;l"/>
+        <v id="w_mss-dates_11418" ok="2" left="0" right="0" imgsig=",&apos;,&apos;,&apos;,&apos;l&apos;,,&apos;&apos;,,&apos;,&apos;&apos;,&apos;,&apos;,(ll,ll,&apos;&apos;)ll)(ll)ll"/>
+        <v id="w_mss-dates_11371" ok="2" left="0" right="0" imgsig="lll"/>
+        <v id="w_mss-dates_11372" ok="2" left="0" right="0" imgsig=",&apos;,ll&apos;&apos;,&apos;,lllllll"/>
+        <v id="w_mss-dates_11373" ok="2" left="0" right="0" imgsig="l&apos;,lllllll"/>
+        <v id="w_mss-dates_11374" ok="2" left="0" right="0" imgsig=")l"/>
+        <v id="w_mss-dates_11375" ok="2" left="0" right="0" imgsig="lll,"/>
+        <v id="w_mss-dates_11399" ok="2" left="0" right="0" imgsig="lll()llll(&apos;"/>
+        <v id="w_mss-dates_11377" ok="2" left="0" right="0" imgsig="ll("/>
+        <v id="w_mss-dates_11411" ok="2" left="0" right="0" imgsig=".,&apos;,("/>
+        <v id="w_mss-dates_11396" ok="2" left="0" right="0" imgsig="&apos;)l(,()"/>
+        <v id="w_mss-dates_11378" ok="2" left="0" right="0" imgsig="llllllll&apos;,l"/>
+        <v id="w_mss-dates_11410" ok="2" left="0" right="0" imgsig="ll(),&apos;()ll(,l)l(,))l"/>
+        <v id="w_mss-dates_11397" ok="2" left="0" right="0" imgsig="lll(,l"/>
+        <v id="w_mss-dates_11379" ok="2" left="0" right="0" imgsig="ll&apos;,lll"/>
+        <v id="w_mss-dates_11380" ok="2" left="0" right="0" imgsig="ll,l"/>
+        <v id="w_mss-dates_11381" ok="2" left="0" right="0" imgsig=",,ll&apos;lllllll"/>
+        <v id="w_mss-dates_11382" ok="2" left="0" right="0" imgsig="l)(lll"/>
+        <v id="w_mss-dates_11383" ok="2" left="0" right="0" imgsig="lllllll"/>
+        <v id="w_mss-dates_11429" ok="2" left="0" right="0" imgsig=",&apos;)llll)l"/>
+        <v id="w_mss-dates_11384" ok="2" left="0" right="0" imgsig=",llll"/>
+        <v id="w_mss-dates_11428" ok="2" left="0" right="0" imgsig="ll(&apos;,l,ll)),&apos;()llll,&apos;)"/>
+        <v id="w_mss-dates_11385" ok="2" left="0" right="0" imgsig="()ll.ll(l(,l"/>
+        <v id="w_mss-dates_11386" ok="2" left="0" right="0" imgsig="(lll"/>
+        <v id="w_mss-dates_11387" ok="2" left="0" right="0" imgsig="lllllll(ll(lll"/>
+        <v id="w_mss-dates_11425" ok="2" left="0" right="0" imgsig=".l&apos;l(&apos;,&apos;&apos;,&apos;,&apos;&apos;,&apos;,&apos;&apos;(&apos;l&apos;&apos;l&apos;,&apos;,&apos;llllll,&apos;,"/>
+        <v id="w_mss-dates_11388" ok="2" left="0" right="0" imgsig="l(),&apos;lll)l)ll)l)l"/>
+        <v id="w_mss-dates_11424" ok="2" left="0" right="0" imgsig=",l&apos;,l&apos;"/>
+        <v id="w_mss-dates_11389" ok="2" left="0" right="0" imgsig="l,ll("/>
+        <v id="w_mss-dates_11417" ok="2" left="0" right="0" imgsig="l("/>
+        <v id="w_mss-dates_11390" ok="2" left="0" right="0" imgsig="ll(l"/>
+        <v id="w_mss-dates_11416" ok="2" left="0" right="0" imgsig="lllll,l"/>
+        <v id="w_mss-dates_11391" ok="2" left="0" right="0" imgsig=",&apos;,&apos;(,ll(ll"/>
+        <v id="w_mss-dates_11415" ok="2" left="0" right="0" imgsig="lll)(l,&apos;,&apos;.)(ll)l,,&apos;.)l"/>
+        <v id="w_mss-dates_11392" ok="2" left="0" right="0" imgsig="ll(,"/>
+        <v id="w_mss-dates_11414" ok="2" left="0" right="0" imgsig="lll(l()lll(l)l(ll"/>
+        <v id="w_mss-dates_11393" ok="2" left="0" right="0" imgsig="lllllll(l"/>
+        <v id="w_mss-dates_11413" ok="2" left="0" right="0" imgsig="l,&apos;,&apos;()&apos;,&apos;,&apos;,&apos;,&apos;,&apos;ll&apos;,&apos;,,&apos;ll,l&apos;,&apos;,&apos;,&apos;,&apos;,,&apos;,&apos;l&apos;lllll)lll(,l"/>
+        <v id="w_mss-dates_11394" ok="2" left="0" right="0" imgsig="ll(l"/>
+        <v id="w_mss-dates_11412" ok="2" left="0" right="0" imgsig="ll"/>
+        <v id="w_mss-dates_11395" ok="2" left="0" right="0" imgsig="(,(ll)ll)l(l,l,)"/>
+        <v id="w_mss-dates_11400" ok="2" left="0" right="0" imgsig=")ll(ll(l"/>
+        <v id="w_mss-dates_11401" ok="2" left="0" right="0" imgsig=",,ll,&apos;ll"/>
+        <v id="w_mss-dates_11402" ok="2" left="0" right="0" imgsig="l,l,&apos;ll(l(l,l,llll"/>
+        <v id="w_mss-dates_11403" ok="2" left="0" right="0" imgsig="lllll&apos;,ll"/>
+        <v id="w_mss-dates_11404" ok="2" left="0" right="0" imgsig="llll,&apos;,&apos;,&apos;llllllll&apos;&apos;"/>
+        <v id="w_mss-dates_11405" ok="2" left="0" right="0" imgsig=",ll&apos;lll"/>
+        <v id="w_mss-dates_11406" ok="2" left="0" right="0" imgsig="ll&apos;,lllll,l&apos;"/>
+        <v id="w_mss-dates_11407" ok="2" left="0" right="0" imgsig="l,&apos;,&apos;&apos;,&apos;,)&apos;(,)l&apos;,&apos;,&apos;,&apos;,&apos;,&apos;&apos;l,&apos;,&apos;ll,&apos;,&apos;,l,&apos;,&apos;)&apos;,&apos;,.&apos;,"/>
+        <v id="w_mss-dates_11408" ok="2" left="0" right="0" imgsig="&apos;ll)lll(llll)l,&apos;"/>
+        <v id="w_mss-dates_11409" ok="2" left="0" right="0" imgsig="l)ll)l,l)ll)l"/>
+        <v id="w_mss-dates_11420" ok="2" left="0" right="0" imgsig="ll)lll()l)l"/>
+        <v id="w_mss-dates_11421" ok="2" left="0" right="0" imgsig=")l(l)(ll)(l)lll"/>
+        <v id="w_mss-dates_11422" ok="2" left="0" right="0" imgsig="llll"/>
+        <v id="w_mss-dates_11423" ok="2" left="0" right="0" imgsig="lll"/>
+        <v id="w_mss-dates_11430" ok="2" left="0" right="0" imgsig="l&apos;l)ll"/>
+        <v id="w_mss-dates_11431" ok="2" left="0" right="0" imgsig="lll,&apos;ll&apos;,&apos;,&apos;(llll)lll"/>
+        <v id="w_mss-dates_11432" ok="2" left="0" right="0" imgsig="l&apos;lllll,&apos;&apos;,&apos;,llll&apos;l"/>
+        <v id="w_mss-dates_11433" ok="2" left="0" right="0" imgsig="ll(,)ll&apos;,ll(l)l"/>
+        <v id="w_mss-dates_11434" ok="2" left="0" right="0" imgsig=".),llllll"/>
+        <v id="w_mss-dates_11435" ok="2" left="0" right="0" imgsig="l,&apos;(.llll.l,"/>
+    </validation>
+    <medlines>
+        <column id="col_mss-dates_82_1">
+            <GraphicalLine lh="104">
+                <LinearInterpolation>
+                    <Point2DDouble x="183" y="275"/>
+                    <Point2DDouble x="352" y="275"/>
+                    <Point2DDouble x="464" y="274"/>
+                    <Point2DDouble x="544" y="273"/>
+                    <Point2DDouble x="608" y="272"/>
+                    <Point2DDouble x="928" y="271"/>
+                    <Point2DDouble x="1024" y="272"/>
+                    <Point2DDouble x="1296" y="273"/>
+                    <Point2DDouble x="1440" y="274"/>
+                    <Point2DDouble x="1520" y="275"/>
+                    <Point2DDouble x="1616" y="276"/>
+                    <Point2DDouble x="1696" y="277"/>
+                    <Point2DDouble x="1760" y="278"/>
+                    <Point2DDouble x="1824" y="279"/>
+                </LinearInterpolation>
+                <signature>
+                    <Rect bx="183" ex="249" by="223" ey="327" v="1" code="l" cutproba="240"/>
+                    <Rect bx="250" ex="267" by="223" ey="327" v="1" code="&apos;" cutproba="157"/>
+                    <Rect bx="268" ex="273" by="223" ey="327" v="1" code="l" cutproba="226"/>
+                    <Rect bx="274" ex="282" by="223" ey="327" v="1" code="&apos;" cutproba="221"/>
+                    <Rect bx="283" ex="304" by="223" ey="327" v="1" code="," cutproba="221"/>
+                    <Rect bx="305" ex="306" by="223" ey="327" v="1" code="&apos;" cutproba="179"/>
+                    <Rect bx="306" ex="307" by="223" ey="327" v="1" code="," cutproba="181"/>
+                    <Rect bx="307" ex="312" by="223" ey="327" v="1" code="&apos;" cutproba="183"/>
+                    <Rect bx="313" ex="330" by="223" ey="327" v="1" code="&apos;" cutproba="168"/>
+                    <Rect bx="331" ex="351" by="223" ey="327" v="1" code=")" cutproba="180"/>
+                    <Rect bx="352" ex="359" by="222" ey="327" v="1" code="l" cutproba="163"/>
+                    <Rect bx="360" ex="404" by="222" ey="326" v="1" code="l" cutproba="206"/>
+                    <Rect bx="405" ex="421" by="222" ey="326" v="1" code="l" cutproba="164"/>
+                    <Rect bx="422" ex="449" by="222" ey="326" v="1" code="l" cutproba="208"/>
+                    <Rect bx="450" ex="474" by="221" ey="325" v="1" code="&apos;" cutproba="191"/>
+                    <Rect bx="475" ex="486" by="221" ey="325" v="1" code="," cutproba="170"/>
+                    <Rect bx="487" ex="532" by="221" ey="325" v="1" code="l" cutproba="198"/>
+                    <Rect bx="533" ex="565" by="221" ey="325" v="1" code="l" cutproba="221"/>
+                    <Rect bx="566" ex="574" by="220" ey="324" v="1" code="," cutproba="238"/>
+                    <Rect bx="575" ex="624" by="219" ey="323" v="1" code="l" cutproba="213"/>
+                    <Rect bx="625" ex="660" by="219" ey="323" v="1" code="l" cutproba="198"/>
+                    <Rect bx="661" ex="696" by="219" ey="323" v="1" code="l" cutproba="191"/>
+                    <Rect bx="697" ex="704" by="219" ey="323" v="1" code="l" cutproba="173"/>
+                    <Rect bx="705" ex="745" by="219" ey="323" v="1" code="l" cutproba="184"/>
+                    <Rect bx="746" ex="753" by="219" ey="323" v="1" code="l" cutproba="203"/>
+                    <Rect bx="754" ex="776" by="219" ey="323" v="1" code="l" cutproba="177"/>
+                    <Rect bx="777" ex="802" by="219" ey="323" v="1" code="l" cutproba="218"/>
+                    <Rect bx="803" ex="856" by="219" ey="323" v="1" code="l" cutproba="208"/>
+                    <Rect bx="857" ex="864" by="219" ey="323" v="1" code="l" cutproba="240"/>
+                    <Rect bx="865" ex="896" by="219" ey="323" v="1" code="&apos;" cutproba="242"/>
+                    <Rect bx="897" ex="909" by="219" ey="323" v="1" code="," cutproba="149"/>
+                    <Rect bx="910" ex="950" by="219" ey="323" v="1" code="l" cutproba="198"/>
+                    <Rect bx="951" ex="958" by="219" ey="323" v="1" code="l" cutproba="185"/>
+                    <Rect bx="959" ex="1000" by="219" ey="323" v="1" code="&apos;" cutproba="211"/>
+                    <Rect bx="1001" ex="1008" by="219" ey="323" v="1" code="l" cutproba="234"/>
+                    <Rect bx="1009" ex="1059" by="220" ey="324" v="1" code="l" cutproba="240"/>
+                    <Rect bx="1060" ex="1094" by="220" ey="324" v="1" code="l" cutproba="208"/>
+                    <Rect bx="1095" ex="1103" by="220" ey="324" v="1" code="l" cutproba="240"/>
+                    <Rect bx="1104" ex="1125" by="220" ey="324" v="1" code="&apos;" cutproba="240"/>
+                    <Rect bx="1126" ex="1127" by="220" ey="324" v="1" code="," cutproba="134"/>
+                    <Rect bx="1128" ex="1129" by="220" ey="324" v="1" code="&apos;" cutproba="162"/>
+                    <Rect bx="1129" ex="1145" by="220" ey="324" v="1" code="," cutproba="159"/>
+                    <Rect bx="1146" ex="1177" by="220" ey="324" v="1" code="l" cutproba="186"/>
+                    <Rect bx="1178" ex="1204" by="220" ey="324" v="1" code="l" cutproba="183"/>
+                    <Rect bx="1205" ex="1233" by="220" ey="324" v="1" code="&apos;" cutproba="201"/>
+                    <Rect bx="1234" ex="1235" by="220" ey="324" v="1" code="&apos;" cutproba="174"/>
+                    <Rect bx="1236" ex="1237" by="220" ey="324" v="1" code="," cutproba="189"/>
+                    <Rect bx="1238" ex="1239" by="220" ey="324" v="1" code="&apos;" cutproba="201"/>
+                    <Rect bx="1239" ex="1243" by="220" ey="324" v="1" code="," cutproba="205"/>
+                    <Rect bx="1244" ex="1268" by="220" ey="324" v="1" code="l" cutproba="185"/>
+                    <Rect bx="1269" ex="1312" by="220" ey="325" v="1" code="l" cutproba="208"/>
+                    <Rect bx="1313" ex="1320" by="221" ey="325" v="1" code="l" cutproba="182"/>
+                    <Rect bx="1321" ex="1346" by="221" ey="325" v="1" code="l" cutproba="222"/>
+                    <Rect bx="1347" ex="1385" by="221" ey="325" v="1" code="l" cutproba="203"/>
+                    <Rect bx="1386" ex="1422" by="221" ey="325" v="1" code="l" cutproba="185"/>
+                    <Rect bx="1423" ex="1430" by="221" ey="325" v="1" code="l" cutproba="237"/>
+                    <Rect bx="1431" ex="1465" by="222" ey="326" v="1" code="l" cutproba="239"/>
+                    <Rect bx="1466" ex="1484" by="222" ey="326" v="1" code="&apos;" cutproba="175"/>
+                    <Rect bx="1485" ex="1495" by="222" ey="326" v="1" code="," cutproba="160"/>
+                    <Rect bx="1496" ex="1521" by="222" ey="327" v="1" code="l" cutproba="190"/>
+                    <Rect bx="1522" ex="1546" by="223" ey="327" v="1" code="l" cutproba="200"/>
+                    <Rect bx="1547" ex="1568" by="223" ey="327" v="1" code="l" cutproba="192"/>
+                    <Rect bx="1569" ex="1610" by="223" ey="327" v="1" code="l" cutproba="161"/>
+                    <Rect bx="1611" ex="1655" by="223" ey="328" v="1" code="l" cutproba="174"/>
+                    <Rect bx="1656" ex="1666" by="224" ey="328" v="1" code="l" cutproba="217"/>
+                    <Rect bx="1667" ex="1692" by="224" ey="328" v="1" code="l" cutproba="220"/>
+                    <Rect bx="1693" ex="1710" by="224" ey="329" v="1" code=")" cutproba="166"/>
+                    <Rect bx="1711" ex="1718" by="225" ey="329" v="1" code="l" cutproba="121"/>
+                    <Rect bx="1719" ex="1761" by="225" ey="329" v="1" code="l" cutproba="171"/>
+                    <Rect bx="1762" ex="1770" by="226" ey="330" v="1" code="l" cutproba="227"/>
+                    <Rect bx="1771" ex="1797" by="226" ey="330" v="1" code="l" cutproba="226"/>
+                    <Rect bx="1798" ex="1824" by="226" ey="330" v="1" code="," cutproba="161"/>
+                </signature>
+            </GraphicalLine>
+            <GraphicalLine lh="104">
+                <LinearInterpolation>
+                    <Point2DDouble x="175.4447399420734" y="375.9652962463796"/>
+                    <Point2DDouble x="240" y="376"/>
+                    <Point2DDouble x="464" y="377"/>
+                    <Point2DDouble x="544" y="376"/>
+                    <Point2DDouble x="608" y="375"/>
+                    <Point2DDouble x="688" y="374"/>
+                    <Point2DDouble x="752" y="373"/>
+                    <Point2DDouble x="848" y="372"/>
+                    <Point2DDouble x="976" y="371"/>
+                    <Point2DDouble x="1088" y="372"/>
+                    <Point2DDouble x="1184" y="373"/>
+                    <Point2DDouble x="1264" y="374"/>
+                    <Point2DDouble x="1360" y="375"/>
+                    <Point2DDouble x="1520" y="376"/>
+                    <Point2DDouble x="1632" y="377"/>
+                    <Point2DDouble x="1712" y="378"/>
+                    <Point2DDouble x="1792" y="379"/>
+                    <Point2DDouble x="1824" y="380"/>
+                </LinearInterpolation>
+                <signature>
+                    <Rect bx="175" ex="196" by="323" ey="427" v="1" code="," cutproba="232"/>
+                    <Rect bx="197" ex="210" by="323" ey="427" v="1" code="l" cutproba="223"/>
+                    <Rect bx="211" ex="228" by="323" ey="427" v="1" code="l" cutproba="230"/>
+                    <Rect bx="229" ex="247" by="324" ey="428" v="1" code="l" cutproba="210"/>
+                    <Rect bx="248" ex="268" by="324" ey="428" v="1" code="," cutproba="184"/>
+                    <Rect bx="269" ex="276" by="324" ey="428" v="1" code="l" cutproba="228"/>
+                    <Rect bx="277" ex="303" by="324" ey="428" v="1" code="l" cutproba="224"/>
+                    <Rect bx="304" ex="326" by="324" ey="428" v="1" code="l" cutproba="168"/>
+                    <Rect bx="327" ex="350" by="324" ey="428" v="1" code="l" cutproba="198"/>
+                    <Rect bx="351" ex="372" by="324" ey="428" v="1" code="(" cutproba="166"/>
+                    <Rect bx="373" ex="420" by="324" ey="428" v="1" code="," cutproba="180"/>
+                    <Rect bx="421" ex="428" by="324" ey="428" v="1" code="l" cutproba="207"/>
+                    <Rect bx="429" ex="460" by="324" ey="428" v="1" code="l" cutproba="231"/>
+                    <Rect bx="461" ex="509" by="324" ey="428" v="1" code="l" cutproba="199"/>
+                    <Rect bx="510" ex="535" by="324" ey="428" v="1" code="l" cutproba="201"/>
+                    <Rect bx="536" ex="550" by="323" ey="428" v="1" code="l" cutproba="238"/>
+                    <Rect bx="551" ex="589" by="323" ey="427" v="1" code="l" cutproba="236"/>
+                    <Rect bx="590" ex="616" by="322" ey="426" v="1" code="l" cutproba="193"/>
+                    <Rect bx="617" ex="640" by="322" ey="426" v="1" code="l" cutproba="208"/>
+                    <Rect bx="641" ex="659" by="322" ey="426" v="1" code="&apos;" cutproba="192"/>
+                    <Rect bx="660" ex="670" by="322" ey="426" v="1" code="," cutproba="161"/>
+                    <Rect bx="671" ex="709" by="321" ey="426" v="1" code="l" cutproba="184"/>
+                    <Rect bx="710" ex="733" by="321" ey="425" v="1" code="l" cutproba="187"/>
+                    <Rect bx="734" ex="741" by="321" ey="425" v="1" code="l" cutproba="166"/>
+                    <Rect bx="742" ex="779" by="320" ey="424" v="1" code="&apos;" cutproba="189"/>
+                    <Rect bx="780" ex="792" by="320" ey="424" v="1" code="," cutproba="204"/>
+                    <Rect bx="793" ex="805" by="320" ey="424" v="1" code="l" cutproba="226"/>
+                    <Rect bx="806" ex="833" by="320" ey="424" v="1" code="l" cutproba="226"/>
+                    <Rect bx="834" ex="876" by="319" ey="423" v="1" code="l" cutproba="213"/>
+                    <Rect bx="877" ex="884" by="319" ey="423" v="1" code="l" cutproba="194"/>
+                    <Rect bx="885" ex="947" by="319" ey="423" v="1" code="l" cutproba="209"/>
+                    <Rect bx="948" ex="959" by="319" ey="423" v="1" code="l" cutproba="234"/>
+                    <Rect bx="960" ex="987" by="319" ey="423" v="1" code="l" cutproba="232"/>
+                    <Rect bx="988" ex="1034" by="319" ey="423" v="1" code="l" cutproba="163"/>
+                    <Rect bx="1035" ex="1045" by="319" ey="423" v="1" code="," cutproba="231"/>
+                    <Rect bx="1046" ex="1083" by="319" ey="423" v="1" code="l" cutproba="223"/>
+                    <Rect bx="1084" ex="1091" by="319" ey="424" v="1" code="," cutproba="150"/>
+                    <Rect bx="1092" ex="1121" by="320" ey="424" v="1" code="," cutproba="180"/>
+                    <Rect bx="1122" ex="1150" by="320" ey="424" v="1" code="l" cutproba="183"/>
+                    <Rect bx="1151" ex="1182" by="320" ey="424" v="1" code="l" cutproba="185"/>
+                    <Rect bx="1183" ex="1190" by="320" ey="425" v="1" code="&apos;" cutproba="172"/>
+                    <Rect bx="1191" ex="1216" by="321" ey="425" v="1" code="l" cutproba="192"/>
+                    <Rect bx="1217" ex="1240" by="321" ey="425" v="1" code="l" cutproba="199"/>
+                    <Rect bx="1241" ex="1281" by="321" ey="426" v="1" code="l" cutproba="170"/>
+                    <Rect bx="1282" ex="1289" by="322" ey="426" v="1" code="l" cutproba="234"/>
+                    <Rect bx="1290" ex="1317" by="322" ey="426" v="1" code="l" cutproba="230"/>
+                    <Rect bx="1318" ex="1343" by="322" ey="426" v="1" code="l" cutproba="238"/>
+                    <Rect bx="1344" ex="1381" by="322" ey="427" v="1" code="l" cutproba="166"/>
+                    <Rect bx="1382" ex="1388" by="323" ey="427" v="1" code="l" cutproba="175"/>
+                    <Rect bx="1389" ex="1396" by="323" ey="427" v="1" code=")" cutproba="199"/>
+                    <Rect bx="1397" ex="1416" by="323" ey="427" v="1" code="(" cutproba="132"/>
+                    <Rect bx="1417" ex="1442" by="323" ey="427" v="1" code="l" cutproba="221"/>
+                    <Rect bx="1443" ex="1495" by="323" ey="427" v="1" code="l" cutproba="212"/>
+                    <Rect bx="1496" ex="1504" by="323" ey="427" v="1" code="l" cutproba="234"/>
+                    <Rect bx="1505" ex="1549" by="324" ey="428" v="1" code="l" cutproba="233"/>
+                    <Rect bx="1550" ex="1557" by="324" ey="428" v="1" code="l" cutproba="155"/>
+                    <Rect bx="1558" ex="1593" by="324" ey="428" v="1" code="l" cutproba="141"/>
+                    <Rect bx="1594" ex="1618" by="324" ey="428" v="1" code="l" cutproba="134"/>
+                    <Rect bx="1619" ex="1647" by="324" ey="428" v="1" code="l" cutproba="169"/>
+                    <Rect bx="1648" ex="1655" by="325" ey="429" v="1" code="l" cutproba="192"/>
+                    <Rect bx="1656" ex="1679" by="325" ey="429" v="1" code="l" cutproba="164"/>
+                    <Rect bx="1680" ex="1714" by="325" ey="429" v="1" code="," cutproba="147"/>
+                    <Rect bx="1715" ex="1722" by="326" ey="430" v="1" code="l" cutproba="188"/>
+                    <Rect bx="1723" ex="1779" by="326" ey="430" v="1" code="l" cutproba="206"/>
+                    <Rect bx="1780" ex="1787" by="326" ey="430" v="1" code="l" cutproba="144"/>
+                    <Rect bx="1788" ex="1824" by="327" ey="431" v="1" code="l" cutproba="147"/>
+                </signature>
+            </GraphicalLine>
+            <GraphicalLine lh="104">
+                <LinearInterpolation>
+                    <Point2DDouble x="185" y="482"/>
+                    <Point2DDouble x="240" y="482"/>
+                    <Point2DDouble x="304" y="481"/>
+                    <Point2DDouble x="352" y="480"/>
+                    <Point2DDouble x="416" y="479"/>
+                    <Point2DDouble x="512" y="478"/>
+                    <Point2DDouble x="928" y="477"/>
+                    <Point2DDouble x="1120" y="476"/>
+                    <Point2DDouble x="1248" y="477"/>
+                    <Point2DDouble x="1520" y="478"/>
+                    <Point2DDouble x="1600" y="477"/>
+                    <Point2DDouble x="1648" y="476"/>
+                    <Point2DDouble x="1712" y="475"/>
+                    <Point2DDouble x="1760" y="474"/>
+                    <Point2DDouble x="1824" y="473"/>
+                </LinearInterpolation>
+                <signature>
+                    <Rect bx="185" ex="247" by="430" ey="534" v="1" code="," cutproba="234"/>
+                    <Rect bx="248" ex="271" by="429" ey="533" v="1" code="l" cutproba="214"/>
+                    <Rect bx="272" ex="279" by="429" ey="533" v="1" code="l" cutproba="220"/>
+                    <Rect bx="280" ex="304" by="428" ey="533" v="1" code="(" cutproba="216"/>
+                    <Rect bx="305" ex="330" by="428" ey="532" v="1" code=")" cutproba="129"/>
+                    <Rect bx="331" ex="338" by="428" ey="532" v="1" code="l" cutproba="160"/>
+                    <Rect bx="339" ex="366" by="427" ey="531" v="1" code="l" cutproba="193"/>
+                    <Rect bx="367" ex="412" by="427" ey="531" v="1" code="." cutproba="177"/>
+                    <Rect bx="413" ex="420" by="426" ey="531" v="1" code="l" cutproba="161"/>
+                    <Rect bx="421" ex="445" by="426" ey="530" v="1" code="l" cutproba="203"/>
+                    <Rect bx="446" ex="486" by="426" ey="530" v="1" code="(" cutproba="209"/>
+                    <Rect bx="487" ex="494" by="426" ey="530" v="1" code="l" cutproba="221"/>
+                    <Rect bx="495" ex="528" by="425" ey="529" v="1" code="(" cutproba="229"/>
+                    <Rect bx="529" ex="539" by="425" ey="529" v="1" code="," cutproba="154"/>
+                    <Rect bx="540" ex="564" by="425" ey="529" v="1" code="l" cutproba="194"/>
+                    <Rect bx="565" ex="588" by="425" ey="529" v="1" code="(" cutproba="142"/>
+                    <Rect bx="589" ex="613" by="425" ey="529" v="1" code="l" cutproba="187"/>
+                    <Rect bx="614" ex="623" by="425" ey="529" v="1" code="l" cutproba="234"/>
+                    <Rect bx="624" ex="656" by="425" ey="529" v="1" code="l" cutproba="234"/>
+                    <Rect bx="657" ex="680" by="425" ey="529" v="1" code="l" cutproba="203"/>
+                    <Rect bx="681" ex="704" by="425" ey="529" v="1" code="l" cutproba="182"/>
+                    <Rect bx="705" ex="731" by="425" ey="529" v="1" code="l" cutproba="210"/>
+                    <Rect bx="732" ex="755" by="425" ey="529" v="1" code="l" cutproba="188"/>
+                    <Rect bx="756" ex="779" by="425" ey="529" v="1" code="l" cutproba="160"/>
+                    <Rect bx="780" ex="804" by="425" ey="529" v="1" code="l" cutproba="206"/>
+                    <Rect bx="805" ex="831" by="425" ey="529" v="1" code="l" cutproba="203"/>
+                    <Rect bx="832" ex="852" by="425" ey="529" v="1" code="(" cutproba="204"/>
+                    <Rect bx="853" ex="856" by="425" ey="529" v="1" code="l" cutproba="200"/>
+                    <Rect bx="857" ex="883" by="425" ey="529" v="1" code="l" cutproba="196"/>
+                    <Rect bx="884" ex="906" by="425" ey="529" v="1" code="(" cutproba="187"/>
+                    <Rect bx="907" ex="911" by="425" ey="529" v="1" code="l" cutproba="175"/>
+                    <Rect bx="912" ex="937" by="424" ey="528" v="1" code="l" cutproba="180"/>
+                    <Rect bx="938" ex="986" by="424" ey="528" v="1" code="l" cutproba="188"/>
+                    <Rect bx="987" ex="995" by="424" ey="528" v="1" code="l" cutproba="236"/>
+                    <Rect bx="996" ex="1028" by="424" ey="528" v="1" code="(" cutproba="236"/>
+                    <Rect bx="1029" ex="1052" by="424" ey="528" v="1" code=")" cutproba="168"/>
+                    <Rect bx="1053" ex="1058" by="424" ey="528" v="1" code="," cutproba="80"/>
+                    <Rect bx="1059" ex="1067" by="424" ey="528" v="1" code="&apos;" cutproba="209"/>
+                    <Rect bx="1068" ex="1085" by="424" ey="528" v="1" code="l" cutproba="166"/>
+                    <Rect bx="1086" ex="1129" by="424" ey="528" v="1" code="l" cutproba="161"/>
+                    <Rect bx="1130" ex="1136" by="424" ey="528" v="1" code="l" cutproba="173"/>
+                    <Rect bx="1137" ex="1157" by="424" ey="528" v="1" code=")" cutproba="194"/>
+                    <Rect bx="1158" ex="1163" by="424" ey="528" v="1" code="l" cutproba="169"/>
+                    <Rect bx="1164" ex="1183" by="424" ey="528" v="1" code=")" cutproba="162"/>
+                    <Rect bx="1184" ex="1206" by="424" ey="528" v="1" code="l" cutproba="140"/>
+                    <Rect bx="1207" ex="1211" by="424" ey="528" v="1" code="l" cutproba="173"/>
+                    <Rect bx="1212" ex="1230" by="424" ey="528" v="1" code=")" cutproba="218"/>
+                    <Rect bx="1231" ex="1236" by="424" ey="528" v="1" code="l" cutproba="173"/>
+                    <Rect bx="1237" ex="1257" by="424" ey="528" v="1" code=")" cutproba="218"/>
+                    <Rect bx="1258" ex="1265" by="425" ey="529" v="1" code="l" cutproba="165"/>
+                    <Rect bx="1266" ex="1284" by="425" ey="529" v="1" code="(" cutproba="205"/>
+                    <Rect bx="1285" ex="1285" by="425" ey="529" v="1" code="," cutproba="164"/>
+                    <Rect bx="1285" ex="1286" by="425" ey="529" v="1" code="&apos;" cutproba="164"/>
+                    <Rect bx="1286" ex="1316" by="425" ey="529" v="1" code="," cutproba="164"/>
+                    <Rect bx="1317" ex="1340" by="425" ey="529" v="1" code="l" cutproba="242"/>
+                    <Rect bx="1341" ex="1348" by="425" ey="529" v="1" code="," cutproba="234"/>
+                    <Rect bx="1349" ex="1373" by="425" ey="529" v="1" code="l" cutproba="218"/>
+                    <Rect bx="1374" ex="1398" by="425" ey="529" v="1" code="l" cutproba="225"/>
+                    <Rect bx="1399" ex="1424" by="425" ey="529" v="1" code="(" cutproba="205"/>
+                    <Rect bx="1425" ex="1447" by="425" ey="529" v="1" code="l" cutproba="200"/>
+                    <Rect bx="1448" ex="1455" by="425" ey="529" v="1" code="l" cutproba="236"/>
+                    <Rect bx="1456" ex="1486" by="425" ey="529" v="1" code="(" cutproba="238"/>
+                    <Rect bx="1487" ex="1537" by="425" ey="529" v="1" code="l" cutproba="207"/>
+                    <Rect bx="1538" ex="1539" by="425" ey="529" v="1" code="," cutproba="227"/>
+                    <Rect bx="1539" ex="1541" by="425" ey="529" v="1" code="&apos;" cutproba="227"/>
+                    <Rect bx="1542" ex="1543" by="425" ey="529" v="1" code="," cutproba="227"/>
+                    <Rect bx="1543" ex="1547" by="425" ey="529" v="1" code="&apos;" cutproba="227"/>
+                    <Rect bx="1548" ex="1569" by="425" ey="529" v="1" code="(" cutproba="227"/>
+                    <Rect bx="1570" ex="1575" by="425" ey="529" v="1" code="," cutproba="169"/>
+                    <Rect bx="1576" ex="1599" by="425" ey="529" v="1" code="l" cutproba="152"/>
+                    <Rect bx="1600" ex="1626" by="424" ey="528" v="1" code="l" cutproba="194"/>
+                    <Rect bx="1627" ex="1647" by="424" ey="528" v="1" code="(" cutproba="166"/>
+                    <Rect bx="1648" ex="1654" by="423" ey="528" v="1" code="l" cutproba="172"/>
+                    <Rect bx="1655" ex="1719" by="423" ey="527" v="1" code="l" cutproba="181"/>
+                    <Rect bx="1720" ex="1728" by="422" ey="526" v="1" code="l" cutproba="214"/>
+                    <Rect bx="1729" ex="1764" by="421" ey="526" v="1" code="l" cutproba="223"/>
+                    <Rect bx="1765" ex="1786" by="421" ey="525" v="1" code="(" cutproba="162"/>
+                    <Rect bx="1787" ex="1824" by="421" ey="525" v="1" code="," cutproba="147"/>
+                </signature>
+            </GraphicalLine>
+            <GraphicalLine lh="104">
+                <LinearInterpolation>
+                    <Point2DDouble x="168" y="579"/>
+                    <Point2DDouble x="208" y="581"/>
+                    <Point2DDouble x="240" y="582"/>
+                    <Point2DDouble x="288" y="582"/>
+                    <Point2DDouble x="640" y="583"/>
+                    <Point2DDouble x="784" y="582"/>
+                    <Point2DDouble x="896" y="581"/>
+                    <Point2DDouble x="976" y="580"/>
+                    <Point2DDouble x="1104" y="581"/>
+                    <Point2DDouble x="1216" y="582"/>
+                    <Point2DDouble x="1504" y="583"/>
+                    <Point2DDouble x="1824" y="582"/>
+                </LinearInterpolation>
+                <signature>
+                    <Rect bx="168" ex="199" by="528" ey="632" v="1" code="&apos;" cutproba="232"/>
+                    <Rect bx="200" ex="207" by="528" ey="633" v="1" code="&apos;" cutproba="226"/>
+                    <Rect bx="208" ex="232" by="529" ey="633" v="1" code="&apos;" cutproba="226"/>
+                    <Rect bx="233" ex="248" by="530" ey="634" v="1" code="," cutproba="165"/>
+                    <Rect bx="249" ex="271" by="530" ey="634" v="1" code="l" cutproba="180"/>
+                    <Rect bx="272" ex="279" by="530" ey="634" v="1" code="l" cutproba="203"/>
+                    <Rect bx="280" ex="309" by="530" ey="634" v="1" code="l" cutproba="193"/>
+                    <Rect bx="310" ex="333" by="530" ey="634" v="1" code="l" cutproba="188"/>
+                    <Rect bx="334" ex="369" by="530" ey="634" v="1" code="l" cutproba="181"/>
+                    <Rect bx="370" ex="377" by="530" ey="634" v="1" code="l" cutproba="150"/>
+                    <Rect bx="378" ex="399" by="530" ey="634" v="1" code="l" cutproba="150"/>
+                    <Rect bx="400" ex="440" by="530" ey="634" v="1" code="(" cutproba="204"/>
+                    <Rect bx="441" ex="459" by="530" ey="634" v="1" code="l" cutproba="215"/>
+                    <Rect bx="460" ex="467" by="530" ey="634" v="1" code="l" cutproba="210"/>
+                    <Rect bx="468" ex="492" by="530" ey="634" v="1" code="l" cutproba="200"/>
+                    <Rect bx="493" ex="536" by="530" ey="634" v="1" code="(" cutproba="126"/>
+                    <Rect bx="537" ex="551" by="530" ey="634" v="1" code="l" cutproba="221"/>
+                    <Rect bx="552" ex="574" by="530" ey="634" v="1" code="(" cutproba="221"/>
+                    <Rect bx="575" ex="585" by="530" ey="634" v="1" code="," cutproba="150"/>
+                    <Rect bx="586" ex="607" by="530" ey="634" v="1" code="(" cutproba="186"/>
+                    <Rect bx="608" ex="638" by="530" ey="634" v="1" code="l" cutproba="181"/>
+                    <Rect bx="639" ex="646" by="530" ey="635" v="1" code="l" cutproba="186"/>
+                    <Rect bx="647" ex="697" by="530" ey="634" v="1" code=")" cutproba="191"/>
+                    <Rect bx="698" ex="705" by="530" ey="634" v="1" code="l" cutproba="168"/>
+                    <Rect bx="706" ex="723" by="530" ey="634" v="1" code="l" cutproba="161"/>
+                    <Rect bx="724" ex="744" by="530" ey="634" v="1" code=")" cutproba="184"/>
+                    <Rect bx="745" ex="752" by="530" ey="634" v="1" code="l" cutproba="146"/>
+                    <Rect bx="753" ex="776" by="530" ey="634" v="1" code="(" cutproba="178"/>
+                    <Rect bx="777" ex="784" by="529" ey="634" v="1" code="l" cutproba="189"/>
+                    <Rect bx="785" ex="801" by="529" ey="633" v="1" code="," cutproba="197"/>
+                    <Rect bx="802" ex="828" by="529" ey="633" v="1" code="l" cutproba="234"/>
+                    <Rect bx="829" ex="872" by="529" ey="633" v="1" code="," cutproba="233"/>
+                    <Rect bx="873" ex="893" by="529" ey="633" v="1" code=")" cutproba="158"/>
+                    <Rect bx="894" ex="897" by="528" ey="633" v="1" code="&apos;" cutproba="65"/>
+                    <Rect bx="898" ex="923" by="528" ey="632" v="1" code=")" cutproba="71"/>
+                    <Rect bx="924" ex="931" by="528" ey="632" v="1" code="l" cutproba="190"/>
+                    <Rect bx="932" ex="951" by="528" ey="632" v="1" code="(" cutproba="197"/>
+                    <Rect bx="952" ex="962" by="528" ey="632" v="1" code="," cutproba="151"/>
+                    <Rect bx="963" ex="983" by="528" ey="632" v="1" code="(" cutproba="184"/>
+                    <Rect bx="984" ex="1013" by="528" ey="632" v="1" code=")" cutproba="142"/>
+                    <Rect bx="1014" ex="1021" by="528" ey="632" v="1" code="l" cutproba="236"/>
+                    <Rect bx="1022" ex="1060" by="528" ey="632" v="1" code="l" cutproba="237"/>
+                    <Rect bx="1061" ex="1086" by="528" ey="632" v="1" code="l" cutproba="180"/>
+                    <Rect bx="1087" ex="1108" by="528" ey="633" v="1" code="(" cutproba="171"/>
+                    <Rect bx="1109" ex="1141" by="529" ey="633" v="1" code="," cutproba="159"/>
+                    <Rect bx="1142" ex="1152" by="529" ey="633" v="1" code="l" cutproba="237"/>
+                    <Rect bx="1153" ex="1178" by="529" ey="633" v="1" code="l" cutproba="237"/>
+                    <Rect bx="1179" ex="1188" by="529" ey="633" v="1" code=")" cutproba="166"/>
+                    <Rect bx="1189" ex="1200" by="529" ey="633" v="1" code="," cutproba="110"/>
+                    <Rect bx="1201" ex="1205" by="529" ey="633" v="1" code="l" cutproba="203"/>
+                    <Rect bx="1206" ex="1224" by="529" ey="634" v="1" code=")" cutproba="197"/>
+                    <Rect bx="1225" ex="1229" by="530" ey="634" v="1" code="," cutproba="165"/>
+                    <Rect bx="1230" ex="1237" by="530" ey="634" v="1" code="&apos;" cutproba="220"/>
+                    <Rect bx="1238" ex="1248" by="530" ey="634" v="1" code="&apos;" cutproba="168"/>
+                    <Rect bx="1249" ex="1250" by="530" ey="634" v="1" code="," cutproba="180"/>
+                    <Rect bx="1251" ex="1251" by="530" ey="634" v="1" code="&apos;" cutproba="192"/>
+                    <Rect bx="1251" ex="1252" by="530" ey="634" v="1" code="," cutproba="192"/>
+                    <Rect bx="1253" ex="1271" by="530" ey="634" v="1" code=")" cutproba="190"/>
+                    <Rect bx="1272" ex="1279" by="530" ey="634" v="1" code="l" cutproba="128"/>
+                    <Rect bx="1280" ex="1305" by="530" ey="634" v="1" code="l" cutproba="189"/>
+                    <Rect bx="1306" ex="1334" by="530" ey="634" v="1" code="l" cutproba="200"/>
+                    <Rect bx="1335" ex="1353" by="530" ey="634" v="1" code="l" cutproba="193"/>
+                    <Rect bx="1354" ex="1382" by="530" ey="634" v="1" code=")" cutproba="177"/>
+                    <Rect bx="1383" ex="1390" by="530" ey="634" v="1" code="l" cutproba="238"/>
+                    <Rect bx="1391" ex="1424" by="530" ey="634" v="1" code="l" cutproba="237"/>
+                    <Rect bx="1425" ex="1447" by="530" ey="634" v="1" code="l" cutproba="159"/>
+                    <Rect bx="1448" ex="1466" by="530" ey="634" v="1" code="(" cutproba="137"/>
+                    <Rect bx="1467" ex="1484" by="530" ey="634" v="1" code=")" cutproba="205"/>
+                    <Rect bx="1485" ex="1507" by="530" ey="634" v="1" code="l" cutproba="165"/>
+                    <Rect bx="1508" ex="1515" by="530" ey="634" v="1" code="l" cutproba="173"/>
+                    <Rect bx="1516" ex="1539" by="530" ey="634" v="1" code="l" cutproba="201"/>
+                    <Rect bx="1540" ex="1562" by="530" ey="634" v="1" code="l" cutproba="189"/>
+                    <Rect bx="1563" ex="1595" by="530" ey="634" v="1" code="(" cutproba="182"/>
+                    <Rect bx="1596" ex="1603" by="530" ey="634" v="1" code="&apos;" cutproba="149"/>
+                    <Rect bx="1604" ex="1623" by="530" ey="634" v="1" code="," cutproba="172"/>
+                    <Rect bx="1624" ex="1631" by="530" ey="634" v="1" code="&apos;" cutproba="210"/>
+                    <Rect bx="1632" ex="1660" by="530" ey="634" v="1" code="(" cutproba="211"/>
+                    <Rect bx="1661" ex="1680" by="530" ey="634" v="1" code=")" cutproba="187"/>
+                    <Rect bx="1681" ex="1688" by="530" ey="634" v="1" code="l" cutproba="160"/>
+                    <Rect bx="1689" ex="1715" by="530" ey="634" v="1" code="l" cutproba="205"/>
+                    <Rect bx="1716" ex="1738" by="530" ey="634" v="1" code="(" cutproba="207"/>
+                    <Rect bx="1739" ex="1743" by="530" ey="634" v="1" code="l" cutproba="190"/>
+                    <Rect bx="1744" ex="1769" by="530" ey="634" v="1" code="l" cutproba="192"/>
+                    <Rect bx="1770" ex="1790" by="530" ey="634" v="1" code="(" cutproba="179"/>
+                    <Rect bx="1791" ex="1824" by="530" ey="634" v="1" code="l" cutproba="199"/>
+                </signature>
+            </GraphicalLine>
+            <GraphicalLine lh="104">
+                <LinearInterpolation>
+                    <Point2DDouble x="183.3132907288396" y="720"/>
+                    <Point2DDouble x="224" y="720"/>
+                    <Point2DDouble x="256" y="708"/>
+                    <Point2DDouble x="288" y="704"/>
+                    <Point2DDouble x="368" y="699"/>
+                    <Point2DDouble x="400" y="698"/>
+                    <Point2DDouble x="448" y="696"/>
+                    <Point2DDouble x="480" y="696"/>
+                    <Point2DDouble x="512" y="695"/>
+                    <Point2DDouble x="544" y="694"/>
+                    <Point2DDouble x="592" y="693"/>
+                    <Point2DDouble x="640" y="692"/>
+                    <Point2DDouble x="704" y="691"/>
+                    <Point2DDouble x="1328" y="690"/>
+                    <Point2DDouble x="1488" y="691"/>
+                    <Point2DDouble x="1728" y="692"/>
+                    <Point2DDouble x="1829" y="693"/>
+                </LinearInterpolation>
+                <signature>
+                    <Rect bx="183" ex="202" by="668" ey="772" v="1" code="," cutproba="215"/>
+                    <Rect bx="203" ex="229" by="665" ey="772" v="1" code="," cutproba="203"/>
+                    <Rect bx="230" ex="270" by="655" ey="765" v="1" code="l" cutproba="115"/>
+                    <Rect bx="271" ex="278" by="653" ey="758" v="1" code="l" cutproba="143"/>
+                    <Rect bx="279" ex="288" by="652" ey="756" v="1" code="," cutproba="134"/>
+                    <Rect bx="289" ex="295" by="651" ey="755" v="1" code="&apos;" cutproba="94"/>
+                    <Rect bx="296" ex="303" by="651" ey="755" v="1" code="l" cutproba="111"/>
+                    <Rect bx="304" ex="327" by="649" ey="754" v="1" code="l" cutproba="125"/>
+                    <Rect bx="328" ex="348" by="648" ey="752" v="1" code="l" cutproba="145"/>
+                    <Rect bx="349" ex="364" by="647" ey="752" v="1" code="," cutproba="160"/>
+                    <Rect bx="365" ex="394" by="646" ey="751" v="1" code="l" cutproba="101"/>
+                    <Rect bx="395" ex="398" by="646" ey="750" v="1" code="," cutproba="191"/>
+                    <Rect bx="399" ex="423" by="645" ey="750" v="1" code="&apos;" cutproba="196"/>
+                    <Rect bx="424" ex="431" by="644" ey="749" v="1" code="l" cutproba="173"/>
+                    <Rect bx="432" ex="460" by="644" ey="748" v="1" code="l" cutproba="172"/>
+                    <Rect bx="461" ex="480" by="644" ey="748" v="1" code="(" cutproba="150"/>
+                    <Rect bx="481" ex="485" by="643" ey="747" v="1" code="l" cutproba="173"/>
+                    <Rect bx="486" ex="507" by="643" ey="747" v="1" code="(" cutproba="179"/>
+                    <Rect bx="508" ex="533" by="642" ey="746" v="1" code="l" cutproba="185"/>
+                    <Rect bx="534" ex="552" by="641" ey="746" v="1" code="," cutproba="188"/>
+                    <Rect bx="553" ex="560" by="641" ey="745" v="1" code="l" cutproba="131"/>
+                    <Rect bx="561" ex="579" by="641" ey="745" v="1" code="," cutproba="159"/>
+                    <Rect bx="580" ex="587" by="641" ey="745" v="1" code="l" cutproba="140"/>
+                    <Rect bx="588" ex="615" by="640" ey="744" v="1" code="l" cutproba="162"/>
+                    <Rect bx="616" ex="661" by="639" ey="744" v="1" code="l" cutproba="196"/>
+                    <Rect bx="662" ex="669" by="639" ey="743" v="1" code="l" cutproba="181"/>
+                    <Rect bx="670" ex="710" by="639" ey="743" v="1" code="l" cutproba="174"/>
+                    <Rect bx="711" ex="718" by="638" ey="742" v="1" code="l" cutproba="175"/>
+                    <Rect bx="719" ex="769" by="638" ey="742" v="1" code="l" cutproba="165"/>
+                    <Rect bx="770" ex="784" by="638" ey="742" v="1" code="l" cutproba="227"/>
+                    <Rect bx="785" ex="823" by="638" ey="742" v="1" code="l" cutproba="230"/>
+                    <Rect bx="824" ex="847" by="638" ey="742" v="1" code="&apos;" cutproba="165"/>
+                    <Rect bx="848" ex="861" by="638" ey="742" v="1" code="," cutproba="148"/>
+                    <Rect bx="862" ex="888" by="638" ey="742" v="1" code="l" cutproba="186"/>
+                    <Rect bx="889" ex="914" by="638" ey="742" v="1" code="l" cutproba="203"/>
+                    <Rect bx="915" ex="940" by="638" ey="742" v="1" code="l" cutproba="188"/>
+                    <Rect bx="941" ex="991" by="638" ey="742" v="1" code="l" cutproba="195"/>
+                    <Rect bx="992" ex="1001" by="638" ey="742" v="1" code="l" cutproba="237"/>
+                    <Rect bx="1002" ex="1040" by="638" ey="742" v="1" code="l" cutproba="237"/>
+                    <Rect bx="1041" ex="1060" by="638" ey="742" v="1" code="," cutproba="193"/>
+                    <Rect bx="1061" ex="1068" by="638" ey="742" v="1" code="&apos;" cutproba="208"/>
+                    <Rect bx="1069" ex="1080" by="638" ey="742" v="1" code="," cutproba="177"/>
+                    <Rect bx="1081" ex="1083" by="638" ey="742" v="1" code="&apos;" cutproba="160"/>
+                    <Rect bx="1084" ex="1085" by="638" ey="742" v="1" code="," cutproba="178"/>
+                    <Rect bx="1085" ex="1105" by="638" ey="742" v="1" code="&apos;" cutproba="179"/>
+                    <Rect bx="1106" ex="1113" by="638" ey="742" v="1" code="l" cutproba="180"/>
+                    <Rect bx="1114" ex="1136" by="638" ey="742" v="1" code="l" cutproba="193"/>
+                    <Rect bx="1137" ex="1160" by="638" ey="742" v="1" code="l" cutproba="185"/>
+                    <Rect bx="1161" ex="1185" by="638" ey="742" v="1" code="l" cutproba="202"/>
+                    <Rect bx="1186" ex="1213" by="638" ey="742" v="1" code="l" cutproba="185"/>
+                    <Rect bx="1214" ex="1238" by="638" ey="742" v="1" code="l" cutproba="188"/>
+                    <Rect bx="1239" ex="1265" by="638" ey="742" v="1" code="l" cutproba="183"/>
+                    <Rect bx="1266" ex="1292" by="638" ey="742" v="1" code="l" cutproba="187"/>
+                    <Rect bx="1293" ex="1326" by="638" ey="742" v="1" code="&apos;" cutproba="188"/>
+                    <Rect bx="1327" ex="1329" by="638" ey="742" v="1" code="&apos;" cutproba="146"/>
+                    <Rect bx="1330" ex="1331" by="638" ey="742" v="1" code="," cutproba="157"/>
+                    <Rect bx="1331" ex="1332" by="638" ey="742" v="1" code="&apos;" cutproba="159"/>
+                    <Rect bx="1332" ex="1362" by="638" ey="742" v="1" code="," cutproba="163"/>
+                    <Rect bx="1363" ex="1365" by="638" ey="742" v="1" code="&apos;" cutproba="223"/>
+                    <Rect bx="1366" ex="1367" by="638" ey="742" v="1" code="," cutproba="227"/>
+                    <Rect bx="1367" ex="1368" by="638" ey="742" v="1" code="&apos;" cutproba="228"/>
+                    <Rect bx="1368" ex="1373" by="638" ey="742" v="1" code="," cutproba="229"/>
+                    <Rect bx="1374" ex="1415" by="638" ey="742" v="1" code="l" cutproba="227"/>
+                    <Rect bx="1416" ex="1442" by="638" ey="742" v="1" code="l" cutproba="199"/>
+                    <Rect bx="1443" ex="1464" by="638" ey="742" v="1" code="&apos;" cutproba="207"/>
+                    <Rect bx="1465" ex="1473" by="638" ey="742" v="1" code="l" cutproba="183"/>
+                    <Rect bx="1474" ex="1496" by="639" ey="743" v="1" code="l" cutproba="203"/>
+                    <Rect bx="1497" ex="1543" by="639" ey="743" v="1" code="l" cutproba="185"/>
+                    <Rect bx="1544" ex="1553" by="639" ey="743" v="1" code="l" cutproba="225"/>
+                    <Rect bx="1554" ex="1588" by="639" ey="743" v="1" code="l" cutproba="225"/>
+                    <Rect bx="1589" ex="1608" by="639" ey="743" v="1" code="&apos;" cutproba="160"/>
+                    <Rect bx="1609" ex="1637" by="639" ey="743" v="1" code="," cutproba="154"/>
+                    <Rect bx="1638" ex="1664" by="639" ey="743" v="1" code="l" cutproba="191"/>
+                    <Rect bx="1665" ex="1672" by="639" ey="743" v="1" code="l" cutproba="193"/>
+                    <Rect bx="1673" ex="1693" by="639" ey="743" v="1" code="l" cutproba="187"/>
+                    <Rect bx="1694" ex="1717" by="639" ey="743" v="1" code="l" cutproba="201"/>
+                    <Rect bx="1718" ex="1759" by="640" ey="744" v="1" code="l" cutproba="198"/>
+                    <Rect bx="1760" ex="1767" by="640" ey="744" v="1" code="," cutproba="214"/>
+                    <Rect bx="1768" ex="1792" by="640" ey="744" v="1" code="l" cutproba="211"/>
+                    <Rect bx="1793" ex="1829" by="640" ey="744" v="1" code="&apos;" cutproba="216"/>
+                </signature>
+            </GraphicalLine>
+            <GraphicalLine lh="104">
+                <LinearInterpolation>
+                    <Point2DDouble x="184.8870008861929" y="789"/>
+                    <Point2DDouble x="224" y="789"/>
+                    <Point2DDouble x="272" y="790"/>
+                    <Point2DDouble x="464" y="791"/>
+                    <Point2DDouble x="576" y="792"/>
+                    <Point2DDouble x="656" y="793"/>
+                    <Point2DDouble x="768" y="794"/>
+                    <Point2DDouble x="1056" y="795"/>
+                    <Point2DDouble x="1120" y="794"/>
+                    <Point2DDouble x="1296" y="795"/>
+                    <Point2DDouble x="1760" y="796"/>
+                    <Point2DDouble x="1826" y="795"/>
+                </LinearInterpolation>
+                <signature>
+                    <Rect bx="184" ex="188" by="737" ey="841" v="1" code="," cutproba="179"/>
+                    <Rect bx="189" ex="196" by="737" ey="841" v="1" code="l" cutproba="161"/>
+                    <Rect bx="197" ex="214" by="737" ey="841" v="1" code="," cutproba="152"/>
+                    <Rect bx="215" ex="223" by="737" ey="841" v="1" code="&apos;" cutproba="120"/>
+                    <Rect bx="224" ex="232" by="737" ey="841" v="1" code="," cutproba="129"/>
+                    <Rect bx="233" ex="246" by="737" ey="841" v="1" code="&apos;" cutproba="112"/>
+                    <Rect bx="247" ex="257" by="737" ey="841" v="1" code="&apos;" cutproba="62"/>
+                    <Rect bx="258" ex="262" by="737" ey="841" v="1" code="," cutproba="75"/>
+                    <Rect bx="263" ex="271" by="737" ey="842" v="1" code="&apos;" cutproba="107"/>
+                    <Rect bx="272" ex="283" by="738" ey="842" v="1" code="," cutproba="59"/>
+                    <Rect bx="284" ex="297" by="738" ey="842" v="1" code=")" cutproba="61"/>
+                    <Rect bx="298" ex="311" by="738" ey="842" v="1" code="&apos;" cutproba="29"/>
+                    <Rect bx="312" ex="322" by="738" ey="842" v="1" code="(" cutproba="97"/>
+                    <Rect bx="323" ex="327" by="738" ey="842" v="1" code="," cutproba="141"/>
+                    <Rect bx="328" ex="342" by="738" ey="842" v="1" code=")" cutproba="151"/>
+                    <Rect bx="343" ex="350" by="738" ey="842" v="1" code="l" cutproba="149"/>
+                    <Rect bx="351" ex="371" by="738" ey="842" v="1" code="&apos;" cutproba="153"/>
+                    <Rect bx="372" ex="378" by="738" ey="842" v="1" code="," cutproba="150"/>
+                    <Rect bx="379" ex="390" by="738" ey="842" v="1" code="&apos;" cutproba="172"/>
+                    <Rect bx="391" ex="392" by="738" ey="842" v="1" code="," cutproba="164"/>
+                    <Rect bx="393" ex="394" by="738" ey="842" v="1" code="&apos;" cutproba="180"/>
+                    <Rect bx="395" ex="396" by="738" ey="842" v="1" code="," cutproba="187"/>
+                    <Rect bx="396" ex="400" by="738" ey="842" v="1" code="&apos;" cutproba="191"/>
+                    <Rect bx="401" ex="405" by="738" ey="842" v="1" code="," cutproba="170"/>
+                    <Rect bx="406" ex="407" by="738" ey="842" v="1" code="&apos;" cutproba="162"/>
+                    <Rect bx="408" ex="408" by="738" ey="842" v="1" code="," cutproba="166"/>
+                    <Rect bx="408" ex="415" by="738" ey="842" v="1" code="&apos;" cutproba="166"/>
+                    <Rect bx="416" ex="423" by="738" ey="842" v="1" code="&apos;" cutproba="140"/>
+                    <Rect bx="424" ex="433" by="738" ey="842" v="1" code="l" cutproba="115"/>
+                    <Rect bx="434" ex="455" by="738" ey="842" v="1" code="," cutproba="112"/>
+                    <Rect bx="456" ex="460" by="738" ey="842" v="1" code="&apos;" cutproba="178"/>
+                    <Rect bx="461" ex="469" by="738" ey="843" v="1" code="," cutproba="181"/>
+                    <Rect bx="470" ex="479" by="739" ey="843" v="1" code="&apos;" cutproba="152"/>
+                    <Rect bx="480" ex="487" by="739" ey="843" v="1" code="l" cutproba="153"/>
+                    <Rect bx="488" ex="504" by="739" ey="843" v="1" code="l" cutproba="153"/>
+                    <Rect bx="505" ex="513" by="739" ey="843" v="1" code="," cutproba="162"/>
+                    <Rect bx="514" ex="515" by="739" ey="843" v="1" code="&apos;" cutproba="136"/>
+                    <Rect bx="515" ex="516" by="739" ey="843" v="1" code="," cutproba="134"/>
+                    <Rect bx="517" ex="518" by="739" ey="843" v="1" code="&apos;" cutproba="116"/>
+                    <Rect bx="519" ex="523" by="739" ey="843" v="1" code="," cutproba="126"/>
+                    <Rect bx="524" ex="550" by="739" ey="843" v="1" code="l" cutproba="80"/>
+                    <Rect bx="551" ex="553" by="739" ey="843" v="1" code="," cutproba="99"/>
+                    <Rect bx="554" ex="555" by="739" ey="843" v="1" code="&apos;" cutproba="108"/>
+                    <Rect bx="555" ex="556" by="739" ey="843" v="1" code="," cutproba="108"/>
+                    <Rect bx="556" ex="563" by="739" ey="843" v="1" code="&apos;" cutproba="110"/>
+                    <Rect bx="564" ex="577" by="739" ey="844" v="1" code=")" cutproba="66"/>
+                    <Rect bx="578" ex="579" by="740" ey="844" v="1" code="&apos;" cutproba="99"/>
+                    <Rect bx="580" ex="581" by="740" ey="844" v="1" code="," cutproba="119"/>
+                    <Rect bx="582" ex="583" by="740" ey="844" v="1" code="&apos;" cutproba="141"/>
+                    <Rect bx="583" ex="590" by="740" ey="844" v="1" code="," cutproba="154"/>
+                    <Rect bx="591" ex="615" by="740" ey="844" v="1" code="." cutproba="119"/>
+                    <Rect bx="616" ex="625" by="740" ey="844" v="1" code="&apos;" cutproba="215"/>
+                    <Rect bx="626" ex="633" by="740" ey="844" v="1" code="," cutproba="210"/>
+                    <Rect bx="634" ex="659" by="740" ey="845" v="1" code="(" cutproba="220"/>
+                    <Rect bx="660" ex="663" by="741" ey="845" v="1" code="&apos;" cutproba="147"/>
+                    <Rect bx="664" ex="665" by="741" ey="845" v="1" code="," cutproba="137"/>
+                    <Rect bx="665" ex="677" by="741" ey="845" v="1" code="&apos;" cutproba="142"/>
+                    <Rect bx="678" ex="709" by="741" ey="845" v="1" code="l" cutproba="133"/>
+                    <Rect bx="710" ex="714" by="741" ey="845" v="1" code="l" cutproba="164"/>
+                    <Rect bx="715" ex="734" by="741" ey="845" v="1" code=")" cutproba="181"/>
+                    <Rect bx="735" ex="742" by="741" ey="845" v="1" code="l" cutproba="153"/>
+                    <Rect bx="743" ex="768" by="741" ey="846" v="1" code="l" cutproba="183"/>
+                    <Rect bx="769" ex="793" by="742" ey="846" v="1" code="l" cutproba="182"/>
+                    <Rect bx="794" ex="813" by="742" ey="846" v="1" code="(" cutproba="150"/>
+                    <Rect bx="814" ex="838" by="742" ey="846" v="1" code="l" cutproba="194"/>
+                    <Rect bx="839" ex="873" by="742" ey="846" v="1" code="l" cutproba="164"/>
+                    <Rect bx="874" ex="881" by="742" ey="846" v="1" code="l" cutproba="228"/>
+                    <Rect bx="882" ex="912" by="742" ey="846" v="1" code="l" cutproba="229"/>
+                    <Rect bx="913" ex="930" by="742" ey="846" v="1" code=")" cutproba="201"/>
+                    <Rect bx="931" ex="938" by="742" ey="846" v="1" code="l" cutproba="141"/>
+                    <Rect bx="939" ex="958" by="742" ey="846" v="1" code="," cutproba="188"/>
+                    <Rect bx="959" ex="966" by="742" ey="846" v="1" code="&apos;" cutproba="215"/>
+                    <Rect bx="967" ex="1005" by="742" ey="846" v="1" code="l" cutproba="171"/>
+                    <Rect bx="1006" ex="1029" by="742" ey="846" v="1" code=")" cutproba="199"/>
+                    <Rect bx="1030" ex="1041" by="742" ey="846" v="1" code="l" cutproba="184"/>
+                    <Rect bx="1042" ex="1069" by="742" ey="846" v="1" code="l" cutproba="188"/>
+                    <Rect bx="1070" ex="1089" by="742" ey="846" v="1" code=")" cutproba="180"/>
+                    <Rect bx="1090" ex="1093" by="742" ey="846" v="1" code="l" cutproba="102"/>
+                    <Rect bx="1094" ex="1111" by="742" ey="846" v="1" code="," cutproba="175"/>
+                    <Rect bx="1112" ex="1115" by="742" ey="846" v="1" code="l" cutproba="162"/>
+                    <Rect bx="1116" ex="1135" by="742" ey="846" v="1" code=")" cutproba="190"/>
+                    <Rect bx="1136" ex="1143" by="742" ey="846" v="1" code="l" cutproba="169"/>
+                    <Rect bx="1144" ex="1169" by="742" ey="846" v="1" code="l" cutproba="202"/>
+                    <Rect bx="1170" ex="1209" by="742" ey="846" v="1" code=")" cutproba="194"/>
+                    <Rect bx="1210" ex="1217" by="742" ey="846" v="1" code="l" cutproba="221"/>
+                    <Rect bx="1218" ex="1273" by="742" ey="846" v="1" code="l" cutproba="229"/>
+                    <Rect bx="1274" ex="1281" by="742" ey="846" v="1" code="l" cutproba="152"/>
+                    <Rect bx="1282" ex="1300" by="742" ey="847" v="1" code="(" cutproba="191"/>
+                    <Rect bx="1301" ex="1322" by="743" ey="847" v="1" code=")" cutproba="174"/>
+                    <Rect bx="1323" ex="1327" by="743" ey="847" v="1" code="," cutproba="80"/>
+                    <Rect bx="1328" ex="1334" by="743" ey="847" v="1" code="&apos;" cutproba="202"/>
+                    <Rect bx="1335" ex="1351" by="743" ey="847" v="1" code="(" cutproba="170"/>
+                    <Rect bx="1352" ex="1370" by="743" ey="847" v="1" code=")" cutproba="189"/>
+                    <Rect bx="1371" ex="1378" by="743" ey="847" v="1" code="l" cutproba="151"/>
+                    <Rect bx="1379" ex="1404" by="743" ey="847" v="1" code="l" cutproba="181"/>
+                    <Rect bx="1405" ex="1424" by="743" ey="847" v="1" code="(" cutproba="156"/>
+                    <Rect bx="1425" ex="1454" by="743" ey="847" v="1" code="," cutproba="181"/>
+                    <Rect bx="1455" ex="1464" by="743" ey="847" v="1" code="l" cutproba="221"/>
+                    <Rect bx="1465" ex="1516" by="743" ey="847" v="1" code=")" cutproba="219"/>
+                    <Rect bx="1517" ex="1524" by="743" ey="847" v="1" code="l" cutproba="140"/>
+                    <Rect bx="1525" ex="1548" by="743" ey="847" v="1" code="(" cutproba="180"/>
+                    <Rect bx="1549" ex="1557" by="743" ey="847" v="1" code="," cutproba="138"/>
+                    <Rect bx="1558" ex="1582" by="743" ey="847" v="1" code=")" cutproba="171"/>
+                    <Rect bx="1583" ex="1605" by="743" ey="847" v="1" code=")" cutproba="161"/>
+                    <Rect bx="1606" ex="1613" by="743" ey="847" v="1" code="l" cutproba="162"/>
+                    <Rect bx="1614" ex="1662" by="743" ey="847" v="1" code="." cutproba="155"/>
+                    <Rect bx="1663" ex="1670" by="743" ey="847" v="1" code="," cutproba="204"/>
+                    <Rect bx="1671" ex="1691" by="743" ey="847" v="1" code="&apos;" cutproba="207"/>
+                    <Rect bx="1692" ex="1699" by="743" ey="847" v="1" code="," cutproba="203"/>
+                    <Rect bx="1700" ex="1723" by="743" ey="847" v="1" code="(" cutproba="204"/>
+                    <Rect bx="1724" ex="1735" by="743" ey="847" v="1" code="," cutproba="127"/>
+                    <Rect bx="1736" ex="1757" by="743" ey="847" v="1" code="(" cutproba="176"/>
+                    <Rect bx="1758" ex="1762" by="743" ey="848" v="1" code="," cutproba="161"/>
+                    <Rect bx="1763" ex="1788" by="743" ey="847" v="1" code="l" cutproba="175"/>
+                    <Rect bx="1789" ex="1826" by="743" ey="847" v="1" code="l" cutproba="214"/>
+                </signature>
+            </GraphicalLine>
+            <GraphicalLine lh="104">
+                <LinearInterpolation>
+                    <Point2DDouble x="212" y="896"/>
+                    <Point2DDouble x="272" y="896"/>
+                    <Point2DDouble x="352" y="901"/>
+                    <Point2DDouble x="400" y="903"/>
+                    <Point2DDouble x="432" y="904"/>
+                    <Point2DDouble x="480" y="904"/>
+                    <Point2DDouble x="624" y="905"/>
+                    <Point2DDouble x="720" y="904"/>
+                    <Point2DDouble x="784" y="903"/>
+                    <Point2DDouble x="848" y="902"/>
+                    <Point2DDouble x="912" y="901"/>
+                    <Point2DDouble x="1216" y="900"/>
+                    <Point2DDouble x="1440" y="901"/>
+                    <Point2DDouble x="1584" y="902"/>
+                    <Point2DDouble x="1744" y="903"/>
+                    <Point2DDouble x="1824" y="904"/>
+                </LinearInterpolation>
+                <signature>
+                    <Rect bx="212" ex="229" by="844" ey="948" v="1" code="&apos;" cutproba="169"/>
+                    <Rect bx="230" ex="237" by="844" ey="948" v="1" code="l" cutproba="132"/>
+                    <Rect bx="238" ex="252" by="844" ey="948" v="1" code="," cutproba="157"/>
+                    <Rect bx="253" ex="254" by="844" ey="948" v="1" code="&apos;" cutproba="71"/>
+                    <Rect bx="254" ex="255" by="844" ey="948" v="1" code="," cutproba="72"/>
+                    <Rect bx="255" ex="260" by="844" ey="948" v="1" code="&apos;" cutproba="72"/>
+                    <Rect bx="261" ex="284" by="844" ey="948" v="1" code="(" cutproba="74"/>
+                    <Rect bx="285" ex="299" by="844" ey="949" v="1" code=")" cutproba="72"/>
+                    <Rect bx="300" ex="303" by="845" ey="950" v="1" code="&apos;" cutproba="35"/>
+                    <Rect bx="304" ex="305" by="846" ey="950" v="1" code="," cutproba="120"/>
+                    <Rect bx="305" ex="308" by="846" ey="950" v="1" code="&apos;" cutproba="115"/>
+                    <Rect bx="309" ex="310" by="846" ey="950" v="1" code="," cutproba="131"/>
+                    <Rect bx="310" ex="323" by="846" ey="951" v="1" code="&apos;" cutproba="146"/>
+                    <Rect bx="324" ex="328" by="847" ey="951" v="1" code="," cutproba="135"/>
+                    <Rect bx="329" ex="335" by="847" ey="952" v="1" code="&apos;" cutproba="168"/>
+                    <Rect bx="336" ex="346" by="848" ey="952" v="1" code="," cutproba="141"/>
+                    <Rect bx="347" ex="354" by="848" ey="953" v="1" code="&apos;" cutproba="144"/>
+                    <Rect bx="355" ex="368" by="849" ey="953" v="1" code="," cutproba="149"/>
+                    <Rect bx="369" ex="378" by="849" ey="954" v="1" code="&apos;" cutproba="154"/>
+                    <Rect bx="379" ex="386" by="850" ey="954" v="1" code="l" cutproba="161"/>
+                    <Rect bx="387" ex="402" by="850" ey="955" v="1" code="l" cutproba="168"/>
+                    <Rect bx="403" ex="406" by="851" ey="955" v="1" code="&apos;" cutproba="152"/>
+                    <Rect bx="407" ex="409" by="851" ey="955" v="1" code="," cutproba="132"/>
+                    <Rect bx="410" ex="411" by="851" ey="955" v="1" code="&apos;" cutproba="160"/>
+                    <Rect bx="411" ex="440" by="851" ey="956" v="1" code="," cutproba="163"/>
+                    <Rect bx="441" ex="451" by="852" ey="956" v="1" code="," cutproba="137"/>
+                    <Rect bx="452" ex="457" by="852" ey="956" v="1" code="&apos;" cutproba="158"/>
+                    <Rect bx="458" ex="466" by="852" ey="956" v="1" code="l" cutproba="138"/>
+                    <Rect bx="467" ex="477" by="852" ey="956" v="1" code="l" cutproba="138"/>
+                    <Rect bx="478" ex="490" by="852" ey="956" v="1" code="," cutproba="117"/>
+                    <Rect bx="491" ex="499" by="852" ey="956" v="1" code="l" cutproba="117"/>
+                    <Rect bx="500" ex="508" by="852" ey="956" v="1" code="&apos;" cutproba="153"/>
+                    <Rect bx="509" ex="510" by="852" ey="956" v="1" code="," cutproba="141"/>
+                    <Rect bx="511" ex="512" by="852" ey="956" v="1" code="&apos;" cutproba="155"/>
+                    <Rect bx="512" ex="516" by="852" ey="956" v="1" code="," cutproba="153"/>
+                    <Rect bx="517" ex="525" by="852" ey="956" v="1" code="&apos;" cutproba="147"/>
+                    <Rect bx="526" ex="527" by="852" ey="956" v="1" code="," cutproba="148"/>
+                    <Rect bx="527" ex="528" by="852" ey="956" v="1" code="&apos;" cutproba="157"/>
+                    <Rect bx="528" ex="533" by="852" ey="956" v="1" code="," cutproba="159"/>
+                    <Rect bx="534" ex="540" by="852" ey="956" v="1" code="&apos;" cutproba="134"/>
+                    <Rect bx="541" ex="547" by="852" ey="956" v="1" code="," cutproba="143"/>
+                    <Rect bx="548" ex="562" by="852" ey="956" v="1" code="," cutproba="130"/>
+                    <Rect bx="563" ex="564" by="852" ey="956" v="1" code="&apos;" cutproba="100"/>
+                    <Rect bx="565" ex="565" by="852" ey="956" v="1" code="," cutproba="115"/>
+                    <Rect bx="565" ex="574" by="852" ey="956" v="1" code="&apos;" cutproba="115"/>
+                    <Rect bx="575" ex="580" by="852" ey="956" v="1" code="l" cutproba="105"/>
+                    <Rect bx="581" ex="599" by="852" ey="956" v="1" code="&apos;" cutproba="108"/>
+                    <Rect bx="600" ex="613" by="852" ey="956" v="1" code="l" cutproba="138"/>
+                    <Rect bx="614" ex="635" by="852" ey="957" v="1" code="l" cutproba="177"/>
+                    <Rect bx="636" ex="643" by="852" ey="956" v="1" code="l" cutproba="202"/>
+                    <Rect bx="644" ex="678" by="852" ey="956" v="1" code="l" cutproba="217"/>
+                    <Rect bx="679" ex="718" by="852" ey="956" v="1" code="l" cutproba="150"/>
+                    <Rect bx="719" ex="739" by="851" ey="956" v="1" code=")" cutproba="208"/>
+                    <Rect bx="740" ex="747" by="851" ey="955" v="1" code="l" cutproba="153"/>
+                    <Rect bx="748" ex="791" by="851" ey="955" v="1" code="l" cutproba="197"/>
+                    <Rect bx="792" ex="799" by="850" ey="954" v="1" code="l" cutproba="194"/>
+                    <Rect bx="800" ex="819" by="850" ey="954" v="1" code="(" cutproba="191"/>
+                    <Rect bx="820" ex="841" by="850" ey="954" v="1" code="," cutproba="167"/>
+                    <Rect bx="842" ex="876" by="849" ey="954" v="1" code="l" cutproba="178"/>
+                    <Rect bx="877" ex="884" by="849" ey="953" v="1" code="l" cutproba="220"/>
+                    <Rect bx="885" ex="935" by="848" ey="953" v="1" code="l" cutproba="223"/>
+                    <Rect bx="936" ex="943" by="848" ey="952" v="1" code="l" cutproba="161"/>
+                    <Rect bx="944" ex="963" by="848" ey="952" v="1" code="(" cutproba="158"/>
+                    <Rect bx="964" ex="969" by="848" ey="952" v="1" code="l" cutproba="150"/>
+                    <Rect bx="970" ex="999" by="848" ey="952" v="1" code="(" cutproba="161"/>
+                    <Rect bx="1000" ex="1023" by="848" ey="952" v="1" code=")" cutproba="162"/>
+                    <Rect bx="1024" ex="1031" by="848" ey="952" v="1" code="l" cutproba="111"/>
+                    <Rect bx="1032" ex="1057" by="848" ey="952" v="1" code="l" cutproba="198"/>
+                    <Rect bx="1058" ex="1083" by="848" ey="952" v="1" code="l" cutproba="198"/>
+                    <Rect bx="1084" ex="1106" by="848" ey="952" v="1" code="(" cutproba="201"/>
+                    <Rect bx="1107" ex="1108" by="848" ey="952" v="1" code="l" cutproba="202"/>
+                    <Rect bx="1108" ex="1125" by="848" ey="952" v="1" code=")" cutproba="204"/>
+                    <Rect bx="1126" ex="1133" by="848" ey="952" v="1" code="l" cutproba="143"/>
+                    <Rect bx="1134" ex="1190" by="848" ey="952" v="1" code="(" cutproba="186"/>
+                    <Rect bx="1191" ex="1202" by="848" ey="952" v="1" code="l" cutproba="225"/>
+                    <Rect bx="1203" ex="1237" by="848" ey="952" v="1" code="l" cutproba="230"/>
+                    <Rect bx="1238" ex="1262" by="848" ey="952" v="1" code="l" cutproba="196"/>
+                    <Rect bx="1263" ex="1285" by="848" ey="952" v="1" code="l" cutproba="169"/>
+                    <Rect bx="1286" ex="1313" by="848" ey="952" v="1" code="l" cutproba="212"/>
+                    <Rect bx="1314" ex="1321" by="848" ey="952" v="1" code=")" cutproba="189"/>
+                    <Rect bx="1322" ex="1338" by="848" ey="952" v="1" code="(" cutproba="118"/>
+                    <Rect bx="1339" ex="1343" by="848" ey="952" v="1" code="l" cutproba="194"/>
+                    <Rect bx="1344" ex="1366" by="848" ey="952" v="1" code="," cutproba="198"/>
+                    <Rect bx="1367" ex="1368" by="848" ey="952" v="1" code="&apos;" cutproba="186"/>
+                    <Rect bx="1368" ex="1369" by="848" ey="952" v="1" code="," cutproba="189"/>
+                    <Rect bx="1369" ex="1374" by="848" ey="952" v="1" code="&apos;" cutproba="191"/>
+                    <Rect bx="1375" ex="1395" by="848" ey="952" v="1" code="." cutproba="161"/>
+                    <Rect bx="1396" ex="1410" by="848" ey="952" v="1" code=")" cutproba="186"/>
+                    <Rect bx="1411" ex="1418" by="848" ey="952" v="1" code="(" cutproba="108"/>
+                    <Rect bx="1419" ex="1422" by="848" ey="952" v="1" code="l" cutproba="199"/>
+                    <Rect bx="1423" ex="1442" by="848" ey="953" v="1" code="l" cutproba="179"/>
+                    <Rect bx="1443" ex="1460" by="849" ey="953" v="1" code=")" cutproba="177"/>
+                    <Rect bx="1461" ex="1485" by="849" ey="953" v="1" code="l" cutproba="135"/>
+                    <Rect bx="1486" ex="1493" by="849" ey="953" v="1" code="," cutproba="160"/>
+                    <Rect bx="1494" ex="1515" by="849" ey="953" v="1" code="," cutproba="177"/>
+                    <Rect bx="1516" ex="1522" by="849" ey="953" v="1" code="&apos;" cutproba="178"/>
+                    <Rect bx="1523" ex="1543" by="849" ey="953" v="1" code="." cutproba="145"/>
+                    <Rect bx="1544" ex="1577" by="849" ey="953" v="1" code=")" cutproba="178"/>
+                    <Rect bx="1578" ex="1585" by="849" ey="954" v="1" code="l" cutproba="220"/>
+                    <Rect bx="1586" ex="1639" by="850" ey="954" v="1" code="l" cutproba="222"/>
+                    <Rect bx="1640" ex="1647" by="850" ey="954" v="1" code="l" cutproba="150"/>
+                    <Rect bx="1648" ex="1673" by="850" ey="954" v="1" code="l" cutproba="180"/>
+                    <Rect bx="1674" ex="1697" by="850" ey="954" v="1" code="l" cutproba="173"/>
+                    <Rect bx="1698" ex="1721" by="850" ey="954" v="1" code="l" cutproba="172"/>
+                    <Rect bx="1722" ex="1744" by="850" ey="955" v="1" code="," cutproba="166"/>
+                    <Rect bx="1745" ex="1775" by="851" ey="955" v="1" code="l" cutproba="158"/>
+                    <Rect bx="1776" ex="1786" by="851" ey="955" v="1" code="l" cutproba="215"/>
+                    <Rect bx="1787" ex="1824" by="851" ey="955" v="1" code="(" cutproba="217"/>
+                </signature>
+            </GraphicalLine>
+            <GraphicalLine lh="104">
+                <LinearInterpolation>
+                    <Point2DDouble x="469" y="1001"/>
+                    <Point2DDouble x="480" y="1001"/>
+                    <Point2DDouble x="544" y="1002"/>
+                    <Point2DDouble x="624" y="1003"/>
+                    <Point2DDouble x="896" y="1004"/>
+                    <Point2DDouble x="1072" y="1003"/>
+                    <Point2DDouble x="1168" y="1002"/>
+                    <Point2DDouble x="1312" y="1003"/>
+                    <Point2DDouble x="1584" y="1004"/>
+                    <Point2DDouble x="1744" y="1005"/>
+                    <Point2DDouble x="1824" y="1006"/>
+                </LinearInterpolation>
+                <signature>
+                    <Rect bx="469" ex="490" by="949" ey="1053" v="1" code="&apos;" cutproba="135"/>
+                    <Rect bx="491" ex="492" by="949" ey="1053" v="1" code="," cutproba="156"/>
+                    <Rect bx="492" ex="493" by="949" ey="1053" v="1" code="&apos;" cutproba="159"/>
+                    <Rect bx="494" ex="495" by="949" ey="1053" v="1" code="," cutproba="155"/>
+                    <Rect bx="496" ex="499" by="949" ey="1053" v="1" code="&apos;" cutproba="155"/>
+                    <Rect bx="500" ex="508" by="949" ey="1053" v="1" code="," cutproba="159"/>
+                    <Rect bx="509" ex="510" by="949" ey="1053" v="1" code="&apos;" cutproba="137"/>
+                    <Rect bx="511" ex="512" by="949" ey="1053" v="1" code="," cutproba="146"/>
+                    <Rect bx="512" ex="521" by="949" ey="1053" v="1" code="&apos;" cutproba="142"/>
+                    <Rect bx="522" ex="530" by="949" ey="1053" v="1" code="l" cutproba="133"/>
+                    <Rect bx="531" ex="540" by="949" ey="1053" v="1" code="&apos;" cutproba="123"/>
+                    <Rect bx="541" ex="555" by="949" ey="1054" v="1" code="," cutproba="118"/>
+                    <Rect bx="556" ex="560" by="950" ey="1054" v="1" code="," cutproba="87"/>
+                    <Rect bx="561" ex="569" by="950" ey="1054" v="1" code="&apos;" cutproba="109"/>
+                    <Rect bx="570" ex="577" by="950" ey="1054" v="1" code="&apos;" cutproba="121"/>
+                    <Rect bx="578" ex="597" by="950" ey="1054" v="1" code="," cutproba="132"/>
+                    <Rect bx="598" ex="602" by="950" ey="1054" v="1" code="," cutproba="146"/>
+                    <Rect bx="603" ex="604" by="950" ey="1054" v="1" code="&apos;" cutproba="146"/>
+                    <Rect bx="604" ex="605" by="950" ey="1054" v="1" code="," cutproba="150"/>
+                    <Rect bx="605" ex="610" by="950" ey="1054" v="1" code="&apos;" cutproba="156"/>
+                    <Rect bx="611" ex="624" by="950" ey="1054" v="1" code="&apos;" cutproba="160"/>
+                    <Rect bx="625" ex="635" by="951" ey="1055" v="1" code="," cutproba="174"/>
+                    <Rect bx="636" ex="641" by="951" ey="1055" v="1" code="&apos;" cutproba="200"/>
+                    <Rect bx="642" ex="644" by="951" ey="1055" v="1" code="," cutproba="200"/>
+                    <Rect bx="645" ex="645" by="951" ey="1055" v="1" code="&apos;" cutproba="211"/>
+                    <Rect bx="645" ex="649" by="951" ey="1055" v="1" code="," cutproba="211"/>
+                    <Rect bx="650" ex="681" by="951" ey="1055" v="1" code="(" cutproba="206"/>
+                    <Rect bx="682" ex="687" by="951" ey="1055" v="1" code="l" cutproba="174"/>
+                    <Rect bx="688" ex="719" by="951" ey="1055" v="1" code="l" cutproba="179"/>
+                    <Rect bx="720" ex="746" by="951" ey="1055" v="1" code="," cutproba="181"/>
+                    <Rect bx="747" ex="770" by="951" ey="1055" v="1" code="l" cutproba="173"/>
+                    <Rect bx="771" ex="791" by="951" ey="1055" v="1" code="l" cutproba="142"/>
+                    <Rect bx="792" ex="811" by="951" ey="1055" v="1" code="," cutproba="160"/>
+                    <Rect bx="812" ex="818" by="951" ey="1055" v="1" code="&apos;" cutproba="207"/>
+                    <Rect bx="819" ex="835" by="951" ey="1055" v="1" code="&apos;" cutproba="171"/>
+                    <Rect bx="836" ex="854" by="951" ey="1055" v="1" code=")" cutproba="171"/>
+                    <Rect bx="855" ex="877" by="951" ey="1055" v="1" code="l" cutproba="141"/>
+                    <Rect bx="878" ex="882" by="951" ey="1055" v="1" code="l" cutproba="163"/>
+                    <Rect bx="883" ex="898" by="951" ey="1055" v="1" code=")" cutproba="189"/>
+                    <Rect bx="899" ex="906" by="951" ey="1055" v="1" code="(" cutproba="114"/>
+                    <Rect bx="907" ex="910" by="951" ey="1055" v="1" code="l" cutproba="185"/>
+                    <Rect bx="911" ex="935" by="951" ey="1055" v="1" code="l" cutproba="163"/>
+                    <Rect bx="936" ex="956" by="951" ey="1055" v="1" code=")" cutproba="175"/>
+                    <Rect bx="957" ex="964" by="951" ey="1055" v="1" code="l" cutproba="168"/>
+                    <Rect bx="965" ex="987" by="951" ey="1055" v="1" code="l" cutproba="194"/>
+                    <Rect bx="988" ex="996" by="951" ey="1055" v="1" code=")" cutproba="202"/>
+                    <Rect bx="997" ex="1013" by="951" ey="1055" v="1" code="(" cutproba="121"/>
+                    <Rect bx="1014" ex="1036" by="951" ey="1055" v="1" code="l" cutproba="185"/>
+                    <Rect bx="1037" ex="1044" by="951" ey="1055" v="1" code="l" cutproba="219"/>
+                    <Rect bx="1045" ex="1082" by="950" ey="1054" v="1" code="(" cutproba="222"/>
+                    <Rect bx="1083" ex="1095" by="950" ey="1054" v="1" code="," cutproba="136"/>
+                    <Rect bx="1096" ex="1116" by="950" ey="1054" v="1" code=")" cutproba="193"/>
+                    <Rect bx="1117" ex="1124" by="950" ey="1054" v="1" code="l" cutproba="185"/>
+                    <Rect bx="1125" ex="1149" by="950" ey="1054" v="1" code="l" cutproba="186"/>
+                    <Rect bx="1150" ex="1189" by="950" ey="1054" v="1" code="(" cutproba="194"/>
+                    <Rect bx="1190" ex="1197" by="950" ey="1054" v="1" code="l" cutproba="206"/>
+                    <Rect bx="1198" ex="1225" by="950" ey="1054" v="1" code="l" cutproba="218"/>
+                    <Rect bx="1226" ex="1245" by="950" ey="1054" v="1" code=")" cutproba="146"/>
+                    <Rect bx="1246" ex="1253" by="950" ey="1054" v="1" code="l" cutproba="158"/>
+                    <Rect bx="1254" ex="1279" by="950" ey="1054" v="1" code="l" cutproba="198"/>
+                    <Rect bx="1280" ex="1302" by="950" ey="1054" v="1" code="l" cutproba="181"/>
+                    <Rect bx="1303" ex="1322" by="951" ey="1055" v="1" code="(" cutproba="178"/>
+                    <Rect bx="1323" ex="1343" by="951" ey="1055" v="1" code=")" cutproba="162"/>
+                    <Rect bx="1344" ex="1350" by="951" ey="1055" v="1" code="l" cutproba="181"/>
+                    <Rect bx="1351" ex="1370" by="951" ey="1055" v="1" code=")" cutproba="156"/>
+                    <Rect bx="1371" ex="1375" by="951" ey="1055" v="1" code="l" cutproba="163"/>
+                    <Rect bx="1376" ex="1402" by="951" ey="1055" v="1" code=")" cutproba="172"/>
+                    <Rect bx="1403" ex="1410" by="951" ey="1055" v="1" code="l" cutproba="228"/>
+                    <Rect bx="1411" ex="1434" by="951" ey="1055" v="1" code="(" cutproba="226"/>
+                    <Rect bx="1435" ex="1436" by="951" ey="1055" v="1" code="l" cutproba="180"/>
+                    <Rect bx="1436" ex="1452" by="951" ey="1055" v="1" code=")" cutproba="179"/>
+                    <Rect bx="1453" ex="1460" by="951" ey="1055" v="1" code="(" cutproba="107"/>
+                    <Rect bx="1461" ex="1464" by="951" ey="1055" v="1" code="l" cutproba="199"/>
+                    <Rect bx="1465" ex="1483" by="951" ey="1055" v="1" code="l" cutproba="176"/>
+                    <Rect bx="1484" ex="1490" by="951" ey="1055" v="1" code=")" cutproba="197"/>
+                    <Rect bx="1491" ex="1505" by="951" ey="1055" v="1" code="(" cutproba="115"/>
+                    <Rect bx="1506" ex="1506" by="951" ey="1055" v="1" code="l" cutproba="199"/>
+                    <Rect bx="1506" ex="1526" by="951" ey="1055" v="1" code=")" cutproba="199"/>
+                    <Rect bx="1527" ex="1534" by="951" ey="1055" v="1" code="l" cutproba="160"/>
+                    <Rect bx="1535" ex="1573" by="951" ey="1055" v="1" code="l" cutproba="189"/>
+                    <Rect bx="1574" ex="1599" by="951" ey="1055" v="1" code="l" cutproba="169"/>
+                    <Rect bx="1600" ex="1632" by="952" ey="1056" v="1" code="l" cutproba="188"/>
+                    <Rect bx="1633" ex="1640" by="952" ey="1056" v="1" code="l" cutproba="198"/>
+                    <Rect bx="1641" ex="1673" by="952" ey="1056" v="1" code="l" cutproba="199"/>
+                    <Rect bx="1674" ex="1718" by="952" ey="1056" v="1" code="l" cutproba="190"/>
+                    <Rect bx="1719" ex="1741" by="952" ey="1056" v="1" code="l" cutproba="146"/>
+                    <Rect bx="1742" ex="1780" by="952" ey="1057" v="1" code="l" cutproba="132"/>
+                    <Rect bx="1781" ex="1824" by="953" ey="1057" v="1" code="l" cutproba="176"/>
+                </signature>
+            </GraphicalLine>
+            <GraphicalLine lh="104">
+                <LinearInterpolation>
+                    <Point2DDouble x="206" y="1085"/>
+                    <Point2DDouble x="240" y="1090"/>
+                    <Point2DDouble x="352" y="1098"/>
+                    <Point2DDouble x="384" y="1099"/>
+                    <Point2DDouble x="416" y="1100"/>
+                    <Point2DDouble x="448" y="1100"/>
+                    <Point2DDouble x="480" y="1101"/>
+                    <Point2DDouble x="544" y="1102"/>
+                    <Point2DDouble x="608" y="1103"/>
+                    <Point2DDouble x="720" y="1104"/>
+                    <Point2DDouble x="848" y="1105"/>
+                    <Point2DDouble x="880" y="1104"/>
+                    <Point2DDouble x="1056" y="1105"/>
+                    <Point2DDouble x="1136" y="1106"/>
+                    <Point2DDouble x="1200" y="1107"/>
+                    <Point2DDouble x="1280" y="1108"/>
+                    <Point2DDouble x="1408" y="1109"/>
+                    <Point2DDouble x="1472" y="1110"/>
+                    <Point2DDouble x="1664" y="1109"/>
+                    <Point2DDouble x="1824" y="1108"/>
+                </LinearInterpolation>
+                <signature>
+                    <Rect bx="206" ex="222" by="1033" ey="1139" v="1" code="&apos;" cutproba="168"/>
+                    <Rect bx="223" ex="234" by="1036" ey="1141" v="1" code="," cutproba="171"/>
+                    <Rect bx="235" ex="243" by="1037" ey="1142" v="1" code="l" cutproba="158"/>
+                    <Rect bx="244" ex="265" by="1038" ey="1143" v="1" code="&apos;" cutproba="156"/>
+                    <Rect bx="266" ex="272" by="1039" ey="1144" v="1" code="," cutproba="37"/>
+                    <Rect bx="273" ex="283" by="1040" ey="1145" v="1" code="l" cutproba="119"/>
+                    <Rect bx="284" ex="292" by="1041" ey="1145" v="1" code="&apos;" cutproba="108"/>
+                    <Rect bx="293" ex="328" by="1042" ey="1147" v="1" code="." cutproba="82"/>
+                    <Rect bx="329" ex="336" by="1044" ey="1148" v="1" code="l" cutproba="127"/>
+                    <Rect bx="337" ex="351" by="1045" ey="1149" v="1" code="&apos;" cutproba="126"/>
+                    <Rect bx="352" ex="359" by="1046" ey="1150" v="1" code="l" cutproba="78"/>
+                    <Rect bx="360" ex="404" by="1046" ey="1150" v="1" code="(" cutproba="132"/>
+                    <Rect bx="405" ex="412" by="1047" ey="1151" v="1" code="&apos;" cutproba="167"/>
+                    <Rect bx="413" ex="423" by="1048" ey="1152" v="1" code="," cutproba="173"/>
+                    <Rect bx="424" ex="432" by="1048" ey="1152" v="1" code="&apos;" cutproba="157"/>
+                    <Rect bx="433" ex="445" by="1048" ey="1152" v="1" code="&apos;" cutproba="84"/>
+                    <Rect bx="446" ex="451" by="1048" ey="1152" v="1" code="," cutproba="127"/>
+                    <Rect bx="452" ex="453" by="1048" ey="1152" v="1" code="&apos;" cutproba="136"/>
+                    <Rect bx="454" ex="455" by="1048" ey="1152" v="1" code="," cutproba="143"/>
+                    <Rect bx="455" ex="459" by="1048" ey="1152" v="1" code="&apos;" cutproba="143"/>
+                    <Rect bx="460" ex="478" by="1048" ey="1152" v="1" code="&apos;" cutproba="102"/>
+                    <Rect bx="479" ex="480" by="1048" ey="1152" v="1" code="," cutproba="129"/>
+                    <Rect bx="480" ex="482" by="1049" ey="1153" v="1" code="&apos;" cutproba="145"/>
+                    <Rect bx="483" ex="484" by="1049" ey="1153" v="1" code="," cutproba="156"/>
+                    <Rect bx="484" ex="488" by="1049" ey="1153" v="1" code="&apos;" cutproba="156"/>
+                    <Rect bx="489" ex="502" by="1049" ey="1153" v="1" code="&apos;" cutproba="147"/>
+                    <Rect bx="503" ex="512" by="1049" ey="1153" v="1" code="(" cutproba="92"/>
+                    <Rect bx="513" ex="530" by="1049" ey="1153" v="1" code="&apos;" cutproba="181"/>
+                    <Rect bx="531" ex="538" by="1049" ey="1153" v="1" code="l" cutproba="117"/>
+                    <Rect bx="539" ex="548" by="1049" ey="1154" v="1" code="&apos;" cutproba="167"/>
+                    <Rect bx="549" ex="558" by="1050" ey="1154" v="1" code="&apos;" cutproba="90"/>
+                    <Rect bx="559" ex="565" by="1050" ey="1154" v="1" code="l" cutproba="173"/>
+                    <Rect bx="566" ex="581" by="1050" ey="1154" v="1" code="&apos;" cutproba="184"/>
+                    <Rect bx="582" ex="583" by="1050" ey="1154" v="1" code="," cutproba="129"/>
+                    <Rect bx="583" ex="584" by="1050" ey="1154" v="1" code="&apos;" cutproba="153"/>
+                    <Rect bx="584" ex="589" by="1050" ey="1154" v="1" code="," cutproba="177"/>
+                    <Rect bx="590" ex="604" by="1050" ey="1154" v="1" code="&apos;" cutproba="136"/>
+                    <Rect bx="605" ex="628" by="1050" ey="1155" v="1" code="l" cutproba="145"/>
+                    <Rect bx="629" ex="636" by="1051" ey="1155" v="1" code="l" cutproba="179"/>
+                    <Rect bx="637" ex="668" by="1051" ey="1155" v="1" code="l" cutproba="182"/>
+                    <Rect bx="669" ex="692" by="1051" ey="1155" v="1" code="l" cutproba="164"/>
+                    <Rect bx="693" ex="714" by="1051" ey="1155" v="1" code="l" cutproba="109"/>
+                    <Rect bx="715" ex="765" by="1052" ey="1156" v="1" code="l" cutproba="171"/>
+                    <Rect bx="766" ex="773" by="1052" ey="1156" v="1" code="," cutproba="211"/>
+                    <Rect bx="774" ex="799" by="1052" ey="1156" v="1" code="&apos;" cutproba="218"/>
+                    <Rect bx="800" ex="808" by="1052" ey="1156" v="1" code="," cutproba="222"/>
+                    <Rect bx="809" ex="834" by="1052" ey="1156" v="1" code="(" cutproba="221"/>
+                    <Rect bx="835" ex="844" by="1052" ey="1156" v="1" code="&apos;" cutproba="156"/>
+                    <Rect bx="845" ex="861" by="1052" ey="1157" v="1" code="&apos;" cutproba="157"/>
+                    <Rect bx="862" ex="887" by="1052" ey="1156" v="1" code="&apos;" cutproba="162"/>
+                    <Rect bx="888" ex="912" by="1052" ey="1156" v="1" code="&apos;" cutproba="183"/>
+                    <Rect bx="913" ex="920" by="1052" ey="1156" v="1" code="l" cutproba="153"/>
+                    <Rect bx="921" ex="941" by="1052" ey="1156" v="1" code="l" cutproba="173"/>
+                    <Rect bx="942" ex="963" by="1052" ey="1156" v="1" code="l" cutproba="150"/>
+                    <Rect bx="964" ex="985" by="1052" ey="1156" v="1" code="l" cutproba="164"/>
+                    <Rect bx="986" ex="1023" by="1052" ey="1156" v="1" code="l" cutproba="148"/>
+                    <Rect bx="1024" ex="1031" by="1052" ey="1156" v="1" code="l" cutproba="165"/>
+                    <Rect bx="1032" ex="1070" by="1052" ey="1156" v="1" code="l" cutproba="177"/>
+                    <Rect bx="1071" ex="1078" by="1053" ey="1157" v="1" code="l" cutproba="150"/>
+                    <Rect bx="1079" ex="1102" by="1053" ey="1157" v="1" code="(" cutproba="168"/>
+                    <Rect bx="1103" ex="1134" by="1053" ey="1157" v="1" code="l" cutproba="185"/>
+                    <Rect bx="1135" ex="1142" by="1053" ey="1158" v="1" code="l" cutproba="223"/>
+                    <Rect bx="1143" ex="1177" by="1054" ey="1158" v="1" code="l" cutproba="228"/>
+                    <Rect bx="1178" ex="1202" by="1054" ey="1159" v="1" code="l" cutproba="202"/>
+                    <Rect bx="1203" ex="1223" by="1055" ey="1159" v="1" code="(" cutproba="188"/>
+                    <Rect bx="1224" ex="1231" by="1055" ey="1159" v="1" code="l" cutproba="175"/>
+                    <Rect bx="1232" ex="1258" by="1055" ey="1159" v="1" code="l" cutproba="185"/>
+                    <Rect bx="1259" ex="1281" by="1055" ey="1160" v="1" code="l" cutproba="181"/>
+                    <Rect bx="1282" ex="1300" by="1056" ey="1160" v="1" code="(" cutproba="101"/>
+                    <Rect bx="1301" ex="1302" by="1056" ey="1160" v="1" code="&apos;" cutproba="185"/>
+                    <Rect bx="1302" ex="1328" by="1056" ey="1160" v="1" code="," cutproba="186"/>
+                    <Rect bx="1329" ex="1338" by="1056" ey="1160" v="1" code="l" cutproba="220"/>
+                    <Rect bx="1339" ex="1365" by="1056" ey="1160" v="1" code="," cutproba="219"/>
+                    <Rect bx="1366" ex="1392" by="1056" ey="1160" v="1" code="l" cutproba="177"/>
+                    <Rect bx="1393" ex="1440" by="1057" ey="1161" v="1" code="l" cutproba="157"/>
+                    <Rect bx="1441" ex="1471" by="1057" ey="1161" v="1" code=")" cutproba="162"/>
+                    <Rect bx="1472" ex="1481" by="1057" ey="1162" v="1" code=")" cutproba="200"/>
+                    <Rect bx="1482" ex="1499" by="1057" ey="1161" v="1" code="," cutproba="119"/>
+                    <Rect bx="1500" ex="1507" by="1057" ey="1161" v="1" code="&apos;" cutproba="188"/>
+                    <Rect bx="1508" ex="1519" by="1057" ey="1161" v="1" code="(" cutproba="147"/>
+                    <Rect bx="1520" ex="1544" by="1057" ey="1161" v="1" code=")" cutproba="166"/>
+                    <Rect bx="1545" ex="1552" by="1057" ey="1161" v="1" code="l" cutproba="156"/>
+                    <Rect bx="1553" ex="1576" by="1057" ey="1161" v="1" code="l" cutproba="184"/>
+                    <Rect bx="1577" ex="1599" by="1057" ey="1161" v="1" code="l" cutproba="158"/>
+                    <Rect bx="1600" ex="1636" by="1057" ey="1161" v="1" code="l" cutproba="144"/>
+                    <Rect bx="1637" ex="1640" by="1057" ey="1161" v="1" code="," cutproba="138"/>
+                    <Rect bx="1641" ex="1645" by="1057" ey="1161" v="1" code="&apos;" cutproba="176"/>
+                    <Rect bx="1646" ex="1659" by="1057" ey="1161" v="1" code=")" cutproba="144"/>
+                    <Rect bx="1660" ex="1664" by="1057" ey="1161" v="1" code="," cutproba="108"/>
+                    <Rect bx="1665" ex="1669" by="1056" ey="1160" v="1" code="&apos;" cutproba="131"/>
+                    <Rect bx="1670" ex="1698" by="1056" ey="1160" v="1" code=")" cutproba="140"/>
+                    <Rect bx="1699" ex="1706" by="1056" ey="1160" v="1" code="l" cutproba="212"/>
+                    <Rect bx="1707" ex="1742" by="1056" ey="1160" v="1" code="l" cutproba="213"/>
+                    <Rect bx="1743" ex="1784" by="1056" ey="1160" v="1" code="l" cutproba="158"/>
+                    <Rect bx="1785" ex="1789" by="1056" ey="1160" v="1" code="l" cutproba="169"/>
+                    <Rect bx="1790" ex="1811" by="1056" ey="1160" v="1" code=")" cutproba="173"/>
+                    <Rect bx="1812" ex="1824" by="1056" ey="1160" v="1" code="l" cutproba="139"/>
+                </signature>
+            </GraphicalLine>
+            <GraphicalLine lh="104">
+                <LinearInterpolation>
+                    <Point2DDouble x="194.4432987982365" y="1208.15270617489"/>
+                    <Point2DDouble x="208" y="1209"/>
+                    <Point2DDouble x="672" y="1209"/>
+                    <Point2DDouble x="1040" y="1208"/>
+                    <Point2DDouble x="1120" y="1209"/>
+                    <Point2DDouble x="1200" y="1210"/>
+                    <Point2DDouble x="1264" y="1211"/>
+                    <Point2DDouble x="1360" y="1212"/>
+                    <Point2DDouble x="1696" y="1213"/>
+                    <Point2DDouble x="1824" y="1212"/>
+                </LinearInterpolation>
+                <signature>
+                    <Rect bx="194" ex="250" by="1157" ey="1261" v="1" code="l" cutproba="232"/>
+                    <Rect bx="251" ex="267" by="1157" ey="1261" v="1" code="&apos;" cutproba="195"/>
+                    <Rect bx="268" ex="275" by="1157" ey="1261" v="1" code="l" cutproba="138"/>
+                    <Rect bx="276" ex="299" by="1157" ey="1261" v="1" code=")" cutproba="200"/>
+                    <Rect bx="300" ex="307" by="1157" ey="1261" v="1" code="l" cutproba="154"/>
+                    <Rect bx="308" ex="330" by="1157" ey="1261" v="1" code="l" cutproba="171"/>
+                    <Rect bx="331" ex="352" by="1157" ey="1261" v="1" code="l" cutproba="138"/>
+                    <Rect bx="353" ex="390" by="1157" ey="1261" v="1" code="l" cutproba="149"/>
+                    <Rect bx="391" ex="398" by="1157" ey="1261" v="1" code="l" cutproba="177"/>
+                    <Rect bx="399" ex="414" by="1157" ey="1261" v="1" code="," cutproba="142"/>
+                    <Rect bx="415" ex="436" by="1157" ey="1261" v="1" code="&apos;" cutproba="152"/>
+                    <Rect bx="437" ex="465" by="1157" ey="1261" v="1" code="l" cutproba="182"/>
+                    <Rect bx="466" ex="473" by="1157" ey="1261" v="1" code="l" cutproba="207"/>
+                    <Rect bx="474" ex="484" by="1157" ey="1261" v="1" code="&apos;" cutproba="199"/>
+                    <Rect bx="485" ex="499" by="1157" ey="1261" v="1" code="," cutproba="97"/>
+                    <Rect bx="500" ex="501" by="1157" ey="1261" v="1" code="&apos;" cutproba="162"/>
+                    <Rect bx="501" ex="502" by="1157" ey="1261" v="1" code="," cutproba="169"/>
+                    <Rect bx="502" ex="507" by="1157" ey="1261" v="1" code="&apos;" cutproba="170"/>
+                    <Rect bx="508" ex="524" by="1157" ey="1261" v="1" code="(" cutproba="131"/>
+                    <Rect bx="525" ex="529" by="1157" ey="1261" v="1" code="l" cutproba="175"/>
+                    <Rect bx="530" ex="552" by="1157" ey="1261" v="1" code="l" cutproba="160"/>
+                    <Rect bx="553" ex="576" by="1157" ey="1261" v="1" code="l" cutproba="185"/>
+                    <Rect bx="577" ex="599" by="1157" ey="1261" v="1" code="l" cutproba="163"/>
+                    <Rect bx="600" ex="648" by="1157" ey="1261" v="1" code=")" cutproba="186"/>
+                    <Rect bx="649" ex="656" by="1157" ey="1261" v="1" code="l" cutproba="154"/>
+                    <Rect bx="657" ex="682" by="1156" ey="1260" v="1" code="l" cutproba="182"/>
+                    <Rect bx="683" ex="706" by="1156" ey="1260" v="1" code="l" cutproba="182"/>
+                    <Rect bx="707" ex="730" by="1156" ey="1260" v="1" code="l" cutproba="173"/>
+                    <Rect bx="731" ex="782" by="1156" ey="1260" v="1" code="&apos;" cutproba="176"/>
+                    <Rect bx="783" ex="793" by="1156" ey="1260" v="1" code="l" cutproba="213"/>
+                    <Rect bx="794" ex="823" by="1156" ey="1260" v="1" code="l" cutproba="215"/>
+                    <Rect bx="824" ex="850" by="1156" ey="1260" v="1" code="l" cutproba="141"/>
+                    <Rect bx="851" ex="889" by="1156" ey="1260" v="1" code="l" cutproba="158"/>
+                    <Rect bx="890" ex="897" by="1156" ey="1260" v="1" code="l" cutproba="138"/>
+                    <Rect bx="898" ex="918" by="1156" ey="1260" v="1" code="," cutproba="182"/>
+                    <Rect bx="919" ex="926" by="1156" ey="1260" v="1" code="&apos;" cutproba="192"/>
+                    <Rect bx="927" ex="936" by="1156" ey="1260" v="1" code="&apos;" cutproba="161"/>
+                    <Rect bx="937" ex="938" by="1156" ey="1260" v="1" code="," cutproba="146"/>
+                    <Rect bx="939" ex="940" by="1156" ey="1260" v="1" code="&apos;" cutproba="165"/>
+                    <Rect bx="940" ex="960" by="1156" ey="1260" v="1" code="," cutproba="166"/>
+                    <Rect bx="961" ex="968" by="1156" ey="1260" v="1" code="l" cutproba="173"/>
+                    <Rect bx="969" ex="995" by="1156" ey="1260" v="1" code="l" cutproba="192"/>
+                    <Rect bx="996" ex="1019" by="1156" ey="1260" v="1" code="l" cutproba="165"/>
+                    <Rect bx="1020" ex="1045" by="1156" ey="1260" v="1" code="l" cutproba="196"/>
+                    <Rect bx="1046" ex="1083" by="1156" ey="1260" v="1" code="&apos;" cutproba="163"/>
+                    <Rect bx="1084" ex="1091" by="1156" ey="1260" v="1" code="l" cutproba="210"/>
+                    <Rect bx="1092" ex="1136" by="1156" ey="1261" v="1" code="l" cutproba="221"/>
+                    <Rect bx="1137" ex="1144" by="1157" ey="1261" v="1" code="l" cutproba="143"/>
+                    <Rect bx="1145" ex="1164" by="1157" ey="1261" v="1" code="(" cutproba="170"/>
+                    <Rect bx="1165" ex="1176" by="1157" ey="1261" v="1" code="," cutproba="138"/>
+                    <Rect bx="1177" ex="1183" by="1157" ey="1261" v="1" code=")" cutproba="173"/>
+                    <Rect bx="1184" ex="1218" by="1157" ey="1262" v="1" code="l" cutproba="85"/>
+                    <Rect bx="1219" ex="1226" by="1158" ey="1262" v="1" code="l" cutproba="135"/>
+                    <Rect bx="1227" ex="1241" by="1158" ey="1262" v="1" code="&apos;" cutproba="169"/>
+                    <Rect bx="1242" ex="1248" by="1158" ey="1262" v="1" code="," cutproba="155"/>
+                    <Rect bx="1249" ex="1272" by="1159" ey="1263" v="1" code="l" cutproba="156"/>
+                    <Rect bx="1273" ex="1298" by="1159" ey="1263" v="1" code="l" cutproba="186"/>
+                    <Rect bx="1299" ex="1319" by="1159" ey="1263" v="1" code="(" cutproba="177"/>
+                    <Rect bx="1320" ex="1321" by="1159" ey="1263" v="1" code="l" cutproba="164"/>
+                    <Rect bx="1321" ex="1342" by="1159" ey="1263" v="1" code=")" cutproba="163"/>
+                    <Rect bx="1343" ex="1350" by="1159" ey="1263" v="1" code="l" cutproba="162"/>
+                    <Rect bx="1351" ex="1372" by="1160" ey="1264" v="1" code="." cutproba="162"/>
+                    <Rect bx="1373" ex="1393" by="1160" ey="1264" v="1" code=")" cutproba="164"/>
+                    <Rect bx="1394" ex="1420" by="1160" ey="1264" v="1" code="," cutproba="206"/>
+                    <Rect bx="1421" ex="1428" by="1160" ey="1264" v="1" code="l" cutproba="220"/>
+                    <Rect bx="1429" ex="1455" by="1160" ey="1264" v="1" code="l" cutproba="223"/>
+                    <Rect bx="1456" ex="1491" by="1160" ey="1264" v="1" code="l" cutproba="147"/>
+                    <Rect bx="1492" ex="1499" by="1160" ey="1264" v="1" code="l" cutproba="136"/>
+                    <Rect bx="1500" ex="1522" by="1160" ey="1264" v="1" code="l" cutproba="160"/>
+                    <Rect bx="1523" ex="1546" by="1160" ey="1264" v="1" code="l" cutproba="171"/>
+                    <Rect bx="1547" ex="1604" by="1160" ey="1264" v="1" code="l" cutproba="177"/>
+                    <Rect bx="1605" ex="1614" by="1160" ey="1264" v="1" code="," cutproba="191"/>
+                    <Rect bx="1615" ex="1624" by="1160" ey="1264" v="1" code="&apos;" cutproba="214"/>
+                    <Rect bx="1625" ex="1642" by="1160" ey="1264" v="1" code="(" cutproba="165"/>
+                    <Rect bx="1643" ex="1663" by="1160" ey="1264" v="1" code="." cutproba="174"/>
+                    <Rect bx="1664" ex="1671" by="1160" ey="1264" v="1" code="l" cutproba="103"/>
+                    <Rect bx="1672" ex="1709" by="1160" ey="1264" v="1" code="l" cutproba="130"/>
+                    <Rect bx="1710" ex="1733" by="1160" ey="1264" v="1" code="l" cutproba="174"/>
+                    <Rect bx="1734" ex="1741" by="1160" ey="1264" v="1" code="l" cutproba="157"/>
+                    <Rect bx="1742" ex="1783" by="1160" ey="1264" v="1" code="." cutproba="178"/>
+                    <Rect bx="1784" ex="1791" by="1160" ey="1264" v="1" code="l" cutproba="131"/>
+                    <Rect bx="1792" ex="1824" by="1160" ey="1264" v="1" code="," cutproba="180"/>
+                </signature>
+            </GraphicalLine>
+        </column>
+    </medlines>
+    <lineLinks>
+        <ll id="line_mss-dates_82_1_1" col="col_mss-dates_82_1" n="0"/>
+        <ll id="line_mss-dates_82_1_9" col="col_mss-dates_82_1" n="8"/>
+        <ll id="line_mss-dates_82_1_2" col="col_mss-dates_82_1" n="1"/>
+        <ll id="line_mss-dates_82_1_3" col="col_mss-dates_82_1" n="2"/>
+        <ll id="line_mss-dates_82_1_4" col="col_mss-dates_82_1" n="3"/>
+        <ll id="line_mss-dates_82_1_5" col="col_mss-dates_82_1" n="4"/>
+        <ll id="line_mss-dates_82_1_6" col="col_mss-dates_82_1" n="5"/>
+        <ll id="line_mss-dates_82_1_7" col="col_mss-dates_82_1" n="6"/>
+        <ll id="line_mss-dates_82_1_8" col="col_mss-dates_82_1" n="7"/>
+        <ll id="line_mss-dates_82_1_10" col="col_mss-dates_82_1" n="9"/>
+    </lineLinks>
+</OriData>

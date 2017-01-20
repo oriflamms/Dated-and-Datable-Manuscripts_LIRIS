@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Linking data for document transcriptions and image zones (mss-dates-w)</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Oriflamms project ((http://oriflamms.hypotheses.org))</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Converted from Oriflamms XML-TEI transcription file</p>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <listPrefixDef>
+                <prefixDef ident="txt" matchPattern="([a-z]+)" replacementPattern="../texts/mss-dates-c.xml#$1"/>
+                <prefixDef ident="img" matchPattern="([a-z]+)" replacementPattern="../zones/mss-dates_surf_mss-dates_IRHT_P_006282-zones.xml#$1"/>
+            </listPrefixDef>
+        </encodingDesc>
+        <revisionDesc>
+            <change when="2016-02-26">File created</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <ab type="linking">
+                <linkGrp type="surfaces"/>
+                <linkGrp type="pages">
+                    <link target="txt:page_mss-dates_23 img:zone-page_mss-dates_23"/>
+                </linkGrp>
+                <linkGrp type="columns">
+                    <link target="txt:col_mss-dates_23_1 img:zone-col_mss-dates_23_1"/>
+                </linkGrp>
+                <linkGrp type="lines">
+                    <link target="txt:line_mss-dates_23_1_1 img:zone-line_mss-dates_23_1_1"/>
+                </linkGrp>
+                <linkGrp type="words"/>
+                <linkGrp type="characters"/>
+            </ab>
+        </body>
+    </text>
+</TEI>

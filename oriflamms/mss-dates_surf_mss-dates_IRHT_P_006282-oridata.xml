@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--oriflamms data file-->
+<OriData>
+    <validation/>
+    <medlines>
+        <column id="col_mss-dates_23_1">
+            <GraphicalLine lh="55">
+                <LinearInterpolation>
+                    <Point2DDouble x="984" y="753"/>
+                    <Point2DDouble x="1400" y="753"/>
+                    <Point2DDouble x="1678" y="752"/>
+                </LinearInterpolation>
+            </GraphicalLine>
+        </column>
+    </medlines>
+    <lineLinks>
+        <ll id="line_mss-dates_23_1_1" col="col_mss-dates_23_1" n="0"/>
+    </lineLinks>
+</OriData>

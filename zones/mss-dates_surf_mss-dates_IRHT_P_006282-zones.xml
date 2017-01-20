@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Image zones for surf_mss-dates_IRHT_P_006282</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Oriflamms project</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Converted from Oriflamms XML-TEI transcription file</p>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <change when="2016-02-26">File created</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile xml:base="../img/">
+        <surface xml:id="surf_imgmss-dates_IRHT_P_006282">
+            <graphic url="IRHT_P_006282.png"/>
+            <zone type="page" ulx="0" uly="0" lrx="1718" lry="1232" xml:id="zone-page_mss-dates_23">
+                <zone type="column" xml:id="zone-col_mss-dates_23_1">
+                    <zone type="line" xml:id="zone-line_mss-dates_23_1_1"/>
+                </zone>
+            </zone>
+        </surface>
+    </facsimile>
+</TEI>

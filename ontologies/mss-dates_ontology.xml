@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Déclaration des allographes</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Projet Oriflamms, http://oriflamms.hypotheses.org</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Créé par Oriflamms.</p>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <charDecl/>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p>Déclaration des allographes</p>
+        </body>
+    </text>
+</TEI>

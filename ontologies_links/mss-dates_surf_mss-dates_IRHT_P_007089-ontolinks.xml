@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Liens des allographes</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Projet Oriflamms, http://oriflamms.hypotheses.org</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Créé par Oriflamms.</p>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <listPrefixDef>
+                <prefixDef ident="txt" matchPattern="([a-z]+)" replacementPattern="../texts/mss-dates-c.xml#$1"/>
+                <prefixDef ident="lgly" matchPattern="([a-z]+)" replacementPattern="../ontologies/mss-dates_ontology.xml#$1"/>
+                <prefixDef ident="ggly" matchPattern="([a-z]+)" replacementPattern="../../charDecl.xml#$1"/>
+            </listPrefixDef>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <ab>
+                <linkGrp type="words"/>
+            </ab>
+        </body>
+    </text>
+</TEI>
